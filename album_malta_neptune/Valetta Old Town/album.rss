@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Valetta Old Town</title>
+   	<link>..</link>
+        <generator>jAlbum 33.3</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://travel-pics.vip/Valetta%20Old%20Town/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="https://travel-pics.vip/Valetta%20Old%20Town/View%20from%20above/album.rss" title="View from above" thumbnail="https://travel-pics.vip/Valetta%20Old%20Town/thumbs/View%20from%20above.jpg" thumbnailWidth="450" thumbnailHeight="337" />
+        <item>
+            <title>IMG_4819</title>
+            <link>https://travel-pics.vip/Valetta%20Old%20Town/slides/IMG_4819.jpeg</link>
+            <pubDate>Thu, 28 Dec 2023 22:45:37 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://travel-pics.vip/Valetta%20Old%20Town/thumbs/IMG_4819.jpeg" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://travel-pics.vip/Valetta%20Old%20Town/slides/IMG_4819.jpeg" width="810" height="1080"/>
+            <jalbum:exif originalDate="Mon, 18 Dec 2023 10:47:44 +0200" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_4819.jpeg</guid>
+        </item>
+        <item>
+            <title>IMG_4820</title>
+            <link>https://travel-pics.vip/Valetta%20Old%20Town/slides/IMG_4820.jpeg</link>
+            <pubDate>Thu, 28 Dec 2023 22:45:37 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://travel-pics.vip/Valetta%20Old%20Town/thumbs/IMG_4820.jpeg" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://travel-pics.vip/Valetta%20Old%20Town/slides/IMG_4820.jpeg" width="810" height="1080"/>
+            <jalbum:exif originalDate="Mon, 18 Dec 2023 10:47:45 +0200" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_4820.jpeg</guid>
+        </item>
+    </channel>
+</rss>

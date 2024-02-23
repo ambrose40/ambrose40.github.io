@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Forest Nature Reserve</title>
+   	<link>..</link>
+        <generator>jAlbum 33.3</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://travel-pics.vip/Forest%20Nature%20Reserve/</jalbum:absolutePath>
+        <item>
+            <title>IMG_5189</title>
+            <link>https://travel-pics.vip/Forest%20Nature%20Reserve/slides/IMG_5189.jpeg</link>
+            <pubDate>Thu, 28 Dec 2023 22:45:37 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://travel-pics.vip/Forest%20Nature%20Reserve/thumbs/IMG_5189.jpeg" width="360" height="270"/>
+            <media:content type="image/jpeg" url="https://travel-pics.vip/Forest%20Nature%20Reserve/slides/IMG_5189.jpeg" width="1440" height="1080"/>
+            <jalbum:exif originalDate="Wed, 20 Dec 2023 12:38:34 +0200" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_5189.jpeg</guid>
+        </item>
+        <item>
+            <title>IMG_5190</title>
+            <link>https://travel-pics.vip/Forest%20Nature%20Reserve/slides/IMG_5190.jpeg</link>
+            <pubDate>Thu, 28 Dec 2023 22:45:37 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://travel-pics.vip/Forest%20Nature%20Reserve/thumbs/IMG_5190.jpeg" width="360" height="270"/>
+            <media:content type="image/jpeg" url="https://travel-pics.vip/Forest%20Nature%20Reserve/slides/IMG_5190.jpeg" width="1440" height="1080"/>
+            <jalbum:exif originalDate="Wed, 20 Dec 2023 12:38:42 +0200" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_5190.jpeg</guid>
+        </item>
+        <item>
+            <title>IMG_5191</title>
+            <link>https://travel-pics.vip/Forest%20Nature%20Reserve/slides/IMG_5191.jpeg</link>
+            <pubDate>Thu, 28 Dec 2023 22:45:37 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://travel-pics.vip/Forest%20Nature%20Reserve/thumbs/IMG_5191.jpeg" width="360" height="270"/>
+            <media:content type="image/jpeg" url="https://travel-pics.vip/Forest%20Nature%20Reserve/slides/IMG_5191.jpeg" width="1440" height="1080"/>
+            <jalbum:exif originalDate="Wed, 20 Dec 2023 12:38:44 +0200" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_5191.jpeg</guid>
+        </item>
+        <item>
+            <title>IMG_5208</title>
+            <link>https://travel-pics.vip/Forest%20Nature%20Reserve/slides/IMG_5208.jpeg</link>
+            <pubDate>Thu, 28 Dec 2023 22:45:37 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://travel-pics.vip/Forest%20Nature%20Reserve/thumbs/IMG_5208.jpeg" width="360" height="270"/>
+            <media:content type="image/jpeg" url="https://travel-pics.vip/Forest%20Nature%20Reserve/slides/IMG_5208.jpeg" width="1440" height="1080"/>
+            <jalbum:exif originalDate="Wed, 20 Dec 2023 13:20:36 +0200" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_5208.jpeg</guid>
+        </item>
+        <item>
+            <title>IMG_5210</title>
+            <link>https://travel-pics.vip/Forest%20Nature%20Reserve/slides/IMG_5210.jpeg</link>
+            <pubDate>Thu, 28 Dec 2023 22:45:37 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://travel-pics.vip/Forest%20Nature%20Reserve/thumbs/IMG_5210.jpeg" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://travel-pics.vip/Forest%20Nature%20Reserve/slides/IMG_5210.jpeg" width="810" height="1080"/>
+            <jalbum:exif originalDate="Wed, 20 Dec 2023 13:20:46 +0200" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_5210.jpeg</guid>
+        </item>
+        <item>
+            <title>IMG_5211</title>
+            <link>https://travel-pics.vip/Forest%20Nature%20Reserve/slides/IMG_5211.jpeg</link>
+            <pubDate>Thu, 28 Dec 2023 22:45:37 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://travel-pics.vip/Forest%20Nature%20Reserve/thumbs/IMG_5211.jpeg" width="360" height="270"/>
+            <media:content type="image/jpeg" url="https://travel-pics.vip/Forest%20Nature%20Reserve/slides/IMG_5211.jpeg" width="1440" height="1080"/>
+            <jalbum:exif originalDate="Wed, 20 Dec 2023 13:20:53 +0200" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_5211.jpeg</guid>
+        </item>
+    </channel>
+</rss>

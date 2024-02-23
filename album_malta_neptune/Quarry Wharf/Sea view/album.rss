@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Sea view</title>
+   	<link>../..</link>
+        <generator>jAlbum 33.3</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://travel-pics.vip/Quarry%20Wharf/Sea%20view/</jalbum:absolutePath>
+        <item>
+            <title>IMG_4993</title>
+            <link>https://travel-pics.vip/Quarry%20Wharf/Sea%20view/slides/IMG_4993.jpeg</link>
+            <pubDate>Thu, 28 Dec 2023 22:45:37 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://travel-pics.vip/Quarry%20Wharf/Sea%20view/thumbs/IMG_4993.jpeg" width="360" height="270"/>
+            <media:content type="image/jpeg" url="https://travel-pics.vip/Quarry%20Wharf/Sea%20view/slides/IMG_4993.jpeg" width="1440" height="1080"/>
+            <jalbum:exif originalDate="Tue, 19 Dec 2023 11:42:17 +0200" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_4993.jpeg</guid>
+        </item>
+        <item>
+            <title>IMG_4994</title>
+            <link>https://travel-pics.vip/Quarry%20Wharf/Sea%20view/slides/IMG_4994.jpeg</link>
+            <pubDate>Thu, 28 Dec 2023 22:45:37 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://travel-pics.vip/Quarry%20Wharf/Sea%20view/thumbs/IMG_4994.jpeg" width="360" height="270"/>
+            <media:content type="image/jpeg" url="https://travel-pics.vip/Quarry%20Wharf/Sea%20view/slides/IMG_4994.jpeg" width="1440" height="1080"/>
+            <jalbum:exif originalDate="Tue, 19 Dec 2023 11:42:18 +0200" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_4994.jpeg</guid>
+        </item>
+        <item>
+            <title>IMG_4995</title>
+            <link>https://travel-pics.vip/Quarry%20Wharf/Sea%20view/slides/IMG_4995.jpeg</link>
+            <pubDate>Thu, 28 Dec 2023 22:45:37 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://travel-pics.vip/Quarry%20Wharf/Sea%20view/thumbs/IMG_4995.jpeg" width="360" height="270"/>
+            <media:content type="image/jpeg" url="https://travel-pics.vip/Quarry%20Wharf/Sea%20view/slides/IMG_4995.jpeg" width="1440" height="1080"/>
+            <jalbum:exif originalDate="Tue, 19 Dec 2023 11:42:19 +0200" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_4995.jpeg</guid>
+        </item>
+    </channel>
+</rss>

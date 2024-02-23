@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='UTF-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1.0'>
+<title>Photo location</title>
+<link href='res/common.css' rel='stylesheet'>
+<script src='https://maps.googleapis.com/maps/api/js?key=AIzaSyDV6FazZd6URsVJXHjOkKtrcw2hXQXBwkk&callback=Function.prototype'></script>
+<script src='res/jquery.min.js'></script>
+<script>
+var mapH = 1080;
+var mapW = 1728;
+var mapOtherW = 40;
+var mapOtherH = 102;
+var mapMargin = 30;
+var markertip = 'Photo location';
+var allowStreetView = true;
+</script>
+<script src='res/nemapper.js'></script>
+</head>
+<body>
+<div id='ja-mapcontainer'>
+<div id='ja-mapframe'><div>
+<div id='ja-mapcanvas'></div>
+</div></div>
+<div class='ja-mapfooter'><img id='ja-mapclose' onclick='window.close()' src='res/globeclose.svg' alt='' title='Close map'></div>
+</div>
+<div id='ja-mapdim' onclick='window.close()'></div>
+</body>
+</html>

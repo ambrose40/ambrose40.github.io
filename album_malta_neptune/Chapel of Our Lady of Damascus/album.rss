@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Chapel of Our Lady of Damascus</title>
+   	<link>..</link>
+        <generator>jAlbum 33.3</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://travel-pics.vip/Chapel%20of%20Our%20Lady%20of%20Damascus/</jalbum:absolutePath>
+        <item>
+            <title>IMG_5885</title>
+            <link>https://travel-pics.vip/Chapel%20of%20Our%20Lady%20of%20Damascus/slides/IMG_5885.jpeg</link>
+            <pubDate>Thu, 28 Dec 2023 22:45:37 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://travel-pics.vip/Chapel%20of%20Our%20Lady%20of%20Damascus/thumbs/IMG_5885.jpeg" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://travel-pics.vip/Chapel%20of%20Our%20Lady%20of%20Damascus/slides/IMG_5885.jpeg" width="810" height="1080"/>
+            <jalbum:exif originalDate="Sat, 23 Dec 2023 13:46:32 +0200" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_5885.jpeg</guid>
+        </item>
+        <item>
+            <title>IMG_5886</title>
+            <link>https://travel-pics.vip/Chapel%20of%20Our%20Lady%20of%20Damascus/slides/IMG_5886.jpeg</link>
+            <pubDate>Thu, 28 Dec 2023 22:45:37 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://travel-pics.vip/Chapel%20of%20Our%20Lady%20of%20Damascus/thumbs/IMG_5886.jpeg" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://travel-pics.vip/Chapel%20of%20Our%20Lady%20of%20Damascus/slides/IMG_5886.jpeg" width="810" height="1080"/>
+            <jalbum:exif originalDate="Sat, 23 Dec 2023 13:46:37 +0200" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_5886.jpeg</guid>
+        </item>
+        <item>
+            <title>IMG_5887</title>
+            <link>https://travel-pics.vip/Chapel%20of%20Our%20Lady%20of%20Damascus/slides/IMG_5887.jpeg</link>
+            <pubDate>Thu, 28 Dec 2023 22:45:37 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://travel-pics.vip/Chapel%20of%20Our%20Lady%20of%20Damascus/thumbs/IMG_5887.jpeg" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://travel-pics.vip/Chapel%20of%20Our%20Lady%20of%20Damascus/slides/IMG_5887.jpeg" width="810" height="1080"/>
+            <jalbum:exif originalDate="Sat, 23 Dec 2023 13:46:58 +0200" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_5887.jpeg</guid>
+        </item>
+        <item>
+            <title>IMG_5888</title>
+            <link>https://travel-pics.vip/Chapel%20of%20Our%20Lady%20of%20Damascus/slides/IMG_5888.jpeg</link>
+            <pubDate>Thu, 28 Dec 2023 22:45:37 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://travel-pics.vip/Chapel%20of%20Our%20Lady%20of%20Damascus/thumbs/IMG_5888.jpeg" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://travel-pics.vip/Chapel%20of%20Our%20Lady%20of%20Damascus/slides/IMG_5888.jpeg" width="810" height="1080"/>
+            <jalbum:exif originalDate="Sat, 23 Dec 2023 13:47:08 +0200" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_5888.jpeg</guid>
+        </item>
+    </channel>
+</rss>

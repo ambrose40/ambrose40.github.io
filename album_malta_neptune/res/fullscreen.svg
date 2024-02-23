@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" width="32" height="32">
+	<g fill="#eefcee">
+	<polygon id="fsArrow" points="70 70, 70 380, 185 265, 300 380, 380 300, 265 185, 380 70" />
+	<use href="#fsArrow" transform="rotate(90 500 500)" />
+	<use href="#fsArrow" transform="rotate(180 500 500)" />
+	<use href="#fsArrow" transform="rotate(270 500 500)" />
+	</g>
+</svg>

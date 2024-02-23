@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Fungi</title>
+   	<link>..</link>
+        <generator>jAlbum 33.3</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://travel-pics.vip/Fungi/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="https://travel-pics.vip/Fungi/%D0%91%D0%B5%D0%BB%D0%BE%D1%88%D0%B0%D0%BC%D0%BF%D0%B8%D0%BD%D1%8C%D0%BE%D0%BD%20%D1%80%D1%83%D0%BC%D1%8F%D0%BD%D1%8F%D1%89%D0%B8%D0%B9%D1%81%D1%8F%20-%20Leucoagaricus%20leucothites/album.rss" title="Белошампиньон румянящийся - Leucoagaricus leucothites" thumbnail="https://travel-pics.vip/Fungi/thumbs/%D0%91%D0%B5%D0%BB%D0%BE%D1%88%D0%B0%D0%BC%D0%BF%D0%B8%D0%BD%D1%8C%D0%BE%D0%BD%20%D1%80%D1%83%D0%BC%D1%8F%D0%BD%D1%8F%D1%89%D0%B8%D0%B9%D1%81%D1%8F%20-%20Leucoagaricus%20leucothites.jpg" thumbnailWidth="450" thumbnailHeight="337" />
+    	<jalbum:link rel="sub" href="https://travel-pics.vip/Fungi/%D0%9C%D0%B0%D1%81%D0%BB%D1%91%D0%BD%D0%BE%D0%BA%20%D0%BD%D0%B5%D0%BE%D0%BA%D0%BE%D0%BB%D1%8C%D1%86%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9%20-%20Suillus%20collinitus/album.rss" title="Маслёнок неокольцованный - Suillus collinitus" thumbnail="https://travel-pics.vip/Fungi/thumbs/%D0%9C%D0%B0%D1%81%D0%BB%D1%91%D0%BD%D0%BE%D0%BA%20%D0%BD%D0%B5%D0%BE%D0%BA%D0%BE%D0%BB%D1%8C%D1%86%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9%20-%20Suillus%20collinitus.jpg" thumbnailWidth="450" thumbnailHeight="337" />
+    </channel>
+</rss>

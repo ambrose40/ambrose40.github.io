@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" width="32" height="32">
+	<defs>
+		<mask id="lenses">
+			<rect width="1000" height="1000" fill="#ffffff" />
+			<circle cx="215" cy="385" r="45" />
+			<circle cx="540" cy="600" r="225" />
+		</mask>
+	</defs>
+	<g stroke="#eefcee" fill="#eefcee" >
+	<rect x="70" y="315" width="860" height="610" rx="135" mask="url(#lenses)" />
+	<circle cx="540" cy="600" r="155" />
+	<path stroke-width="50" stroke-linejoin="round" d="M170 335, 180 305, 250 305, 260 335" />
+	<path stroke-width="100" stroke-linejoin="round" d="M380 345, 440 270, 640 270, 700 345" />
+	</g>
+</svg>

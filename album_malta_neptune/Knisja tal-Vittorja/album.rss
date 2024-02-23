@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Knisja tal-Vittorja</title>
+   	<link>..</link>
+        <generator>jAlbum 33.3</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://travel-pics.vip/Knisja%20tal-Vittorja/</jalbum:absolutePath>
+        <item>
+            <title>IMG_4832</title>
+            <link>https://travel-pics.vip/Knisja%20tal-Vittorja/slides/IMG_4832.jpeg</link>
+            <pubDate>Thu, 28 Dec 2023 22:45:37 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://travel-pics.vip/Knisja%20tal-Vittorja/thumbs/IMG_4832.jpeg" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://travel-pics.vip/Knisja%20tal-Vittorja/slides/IMG_4832.jpeg" width="810" height="1080"/>
+            <jalbum:exif originalDate="Mon, 18 Dec 2023 11:06:57 +0200" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_4832.jpeg</guid>
+        </item>
+        <item>
+            <title>IMG_4833</title>
+            <link>https://travel-pics.vip/Knisja%20tal-Vittorja/slides/IMG_4833.jpeg</link>
+            <pubDate>Thu, 28 Dec 2023 22:45:37 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://travel-pics.vip/Knisja%20tal-Vittorja/thumbs/IMG_4833.jpeg" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://travel-pics.vip/Knisja%20tal-Vittorja/slides/IMG_4833.jpeg" width="810" height="1080"/>
+            <jalbum:exif originalDate="Mon, 18 Dec 2023 11:08:11 +0200" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_4833.jpeg</guid>
+        </item>
+        <item>
+            <title>IMG_4834</title>
+            <link>https://travel-pics.vip/Knisja%20tal-Vittorja/slides/IMG_4834.jpeg</link>
+            <pubDate>Thu, 28 Dec 2023 22:45:37 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://travel-pics.vip/Knisja%20tal-Vittorja/thumbs/IMG_4834.jpeg" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://travel-pics.vip/Knisja%20tal-Vittorja/slides/IMG_4834.jpeg" width="810" height="1080"/>
+            <jalbum:exif originalDate="Mon, 18 Dec 2023 11:08:11 +0200" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_4834.jpeg</guid>
+        </item>
+        <item>
+            <title>IMG_4835</title>
+            <link>https://travel-pics.vip/Knisja%20tal-Vittorja/slides/IMG_4835.jpeg</link>
+            <pubDate>Thu, 28 Dec 2023 22:45:37 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://travel-pics.vip/Knisja%20tal-Vittorja/thumbs/IMG_4835.jpeg" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://travel-pics.vip/Knisja%20tal-Vittorja/slides/IMG_4835.jpeg" width="810" height="1080"/>
+            <jalbum:exif originalDate="Mon, 18 Dec 2023 11:08:27 +0200" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_4835.jpeg</guid>
+        </item>
+        <item>
+            <title>IMG_4836</title>
+            <link>https://travel-pics.vip/Knisja%20tal-Vittorja/slides/IMG_4836.jpeg</link>
+            <pubDate>Thu, 28 Dec 2023 22:45:37 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://travel-pics.vip/Knisja%20tal-Vittorja/thumbs/IMG_4836.jpeg" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://travel-pics.vip/Knisja%20tal-Vittorja/slides/IMG_4836.jpeg" width="810" height="1080"/>
+            <jalbum:exif originalDate="Mon, 18 Dec 2023 11:08:28 +0200" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_4836.jpeg</guid>
+        </item>
+    </channel>
+</rss>

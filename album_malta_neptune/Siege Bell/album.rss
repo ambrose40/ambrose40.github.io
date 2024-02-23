@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Siege Bell</title>
+   	<link>..</link>
+        <generator>jAlbum 33.3</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://travel-pics.vip/Siege%20Bell/</jalbum:absolutePath>
+        <item>
+            <title>IMG_4900</title>
+            <link>https://travel-pics.vip/Siege%20Bell/slides/IMG_4900.jpeg</link>
+            <pubDate>Thu, 28 Dec 2023 22:45:37 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://travel-pics.vip/Siege%20Bell/thumbs/IMG_4900.jpeg" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://travel-pics.vip/Siege%20Bell/slides/IMG_4900.jpeg" width="810" height="1080"/>
+            <jalbum:exif originalDate="Mon, 18 Dec 2023 14:55:47 +0200" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_4900.jpeg</guid>
+        </item>
+        <item>
+            <title>IMG_4901</title>
+            <link>https://travel-pics.vip/Siege%20Bell/slides/IMG_4901.jpeg</link>
+            <pubDate>Thu, 28 Dec 2023 22:45:37 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://travel-pics.vip/Siege%20Bell/thumbs/IMG_4901.jpeg" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://travel-pics.vip/Siege%20Bell/slides/IMG_4901.jpeg" width="810" height="1080"/>
+            <jalbum:exif originalDate="Mon, 18 Dec 2023 14:55:48 +0200" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_4901.jpeg</guid>
+        </item>
+        <item>
+            <title>IMG_4957</title>
+            <link>https://travel-pics.vip/Siege%20Bell/slides/IMG_4957.jpeg</link>
+            <pubDate>Thu, 28 Dec 2023 22:45:37 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://travel-pics.vip/Siege%20Bell/thumbs/IMG_4957.jpeg" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://travel-pics.vip/Siege%20Bell/slides/IMG_4957.jpeg" width="810" height="1080"/>
+            <jalbum:exif originalDate="Tue, 19 Dec 2023 11:09:44 +0200" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_4957.jpeg</guid>
+        </item>
+        <item>
+            <title>IMG_4958</title>
+            <link>https://travel-pics.vip/Siege%20Bell/slides/IMG_4958.jpeg</link>
+            <pubDate>Thu, 28 Dec 2023 22:45:37 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://travel-pics.vip/Siege%20Bell/thumbs/IMG_4958.jpeg" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://travel-pics.vip/Siege%20Bell/slides/IMG_4958.jpeg" width="810" height="1080"/>
+            <jalbum:exif originalDate="Tue, 19 Dec 2023 11:09:46 +0200" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_4958.jpeg</guid>
+        </item>
+    </channel>
+</rss>

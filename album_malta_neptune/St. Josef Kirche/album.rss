@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>St. Josef Kirche</title>
+   	<link>..</link>
+        <generator>jAlbum 33.3</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://travel-pics.vip/St.%20Josef%20Kirche/</jalbum:absolutePath>
+        <item>
+            <title>IMG_5867</title>
+            <link>https://travel-pics.vip/St.%20Josef%20Kirche/slides/IMG_5867.jpeg</link>
+            <pubDate>Thu, 28 Dec 2023 22:45:37 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://travel-pics.vip/St.%20Josef%20Kirche/thumbs/IMG_5867.jpeg" width="360" height="270"/>
+            <media:content type="image/jpeg" url="https://travel-pics.vip/St.%20Josef%20Kirche/slides/IMG_5867.jpeg" width="1440" height="1080"/>
+            <jalbum:exif originalDate="Sat, 23 Dec 2023 12:14:46 +0200" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_5867.jpeg</guid>
+        </item>
+    </channel>
+</rss>

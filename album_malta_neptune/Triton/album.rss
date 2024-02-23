@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Triton</title>
+   	<link>..</link>
+        <generator>jAlbum 33.3</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://travel-pics.vip/Triton/</jalbum:absolutePath>
+        <item>
+            <title>IMG_4893</title>
+            <link>https://travel-pics.vip/Triton/slides/IMG_4893.jpeg</link>
+            <pubDate>Thu, 28 Dec 2023 22:45:37 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://travel-pics.vip/Triton/thumbs/IMG_4893.jpeg" width="360" height="270"/>
+            <media:content type="image/jpeg" url="https://travel-pics.vip/Triton/slides/IMG_4893.jpeg" width="1440" height="1080"/>
+            <jalbum:exif originalDate="Mon, 18 Dec 2023 12:23:50 +0200" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_4893.jpeg</guid>
+        </item>
+        <item>
+            <title>IMG_5224</title>
+            <link>https://travel-pics.vip/Triton/slides/IMG_5224.jpeg</link>
+            <pubDate>Thu, 28 Dec 2023 22:45:37 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://travel-pics.vip/Triton/thumbs/IMG_5224.jpeg" width="360" height="270"/>
+            <media:content type="image/jpeg" url="https://travel-pics.vip/Triton/slides/IMG_5224.jpeg" width="1440" height="1080"/>
+            <jalbum:exif originalDate="Wed, 20 Dec 2023 16:27:58 +0200" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_5224.jpeg</guid>
+        </item>
+        <item>
+            <title>IMG_5225</title>
+            <link>https://travel-pics.vip/Triton/slides/IMG_5225.jpeg</link>
+            <pubDate>Thu, 28 Dec 2023 22:45:37 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://travel-pics.vip/Triton/thumbs/IMG_5225.jpeg" width="360" height="270"/>
+            <media:content type="image/jpeg" url="https://travel-pics.vip/Triton/slides/IMG_5225.jpeg" width="1440" height="1080"/>
+            <jalbum:exif originalDate="Wed, 20 Dec 2023 16:28:04 +0200" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_5225.jpeg</guid>
+        </item>
+        <item>
+            <title>IMG_5226</title>
+            <link>https://travel-pics.vip/Triton/slides/IMG_5226.jpeg</link>
+            <pubDate>Thu, 28 Dec 2023 22:45:37 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://travel-pics.vip/Triton/thumbs/IMG_5226.jpeg" width="360" height="270"/>
+            <media:content type="image/jpeg" url="https://travel-pics.vip/Triton/slides/IMG_5226.jpeg" width="1440" height="1080"/>
+            <jalbum:exif originalDate="Wed, 20 Dec 2023 16:28:09 +0200" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_5226.jpeg</guid>
+        </item>
+    </channel>
+</rss>

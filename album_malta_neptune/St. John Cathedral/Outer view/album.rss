@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Outer view</title>
+   	<link>../..</link>
+        <generator>jAlbum 33.3</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://travel-pics.vip/St.%20John%20Cathedral/Outer%20view/</jalbum:absolutePath>
+        <item>
+            <title>IMG_4821</title>
+            <link>https://travel-pics.vip/St.%20John%20Cathedral/Outer%20view/slides/IMG_4821.jpeg</link>
+            <pubDate>Thu, 28 Dec 2023 22:45:37 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://travel-pics.vip/St.%20John%20Cathedral/Outer%20view/thumbs/IMG_4821.jpeg" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://travel-pics.vip/St.%20John%20Cathedral/Outer%20view/slides/IMG_4821.jpeg" width="810" height="1080"/>
+            <jalbum:exif originalDate="Mon, 18 Dec 2023 11:01:07 +0200" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_4821.jpeg</guid>
+        </item>
+        <item>
+            <title>IMG_4822</title>
+            <link>https://travel-pics.vip/St.%20John%20Cathedral/Outer%20view/slides/IMG_4822.jpeg</link>
+            <pubDate>Thu, 28 Dec 2023 22:45:37 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://travel-pics.vip/St.%20John%20Cathedral/Outer%20view/thumbs/IMG_4822.jpeg" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://travel-pics.vip/St.%20John%20Cathedral/Outer%20view/slides/IMG_4822.jpeg" width="810" height="1080"/>
+            <jalbum:exif originalDate="Mon, 18 Dec 2023 11:01:11 +0200" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_4822.jpeg</guid>
+        </item>
+        <item>
+            <title>IMG_4823</title>
+            <link>https://travel-pics.vip/St.%20John%20Cathedral/Outer%20view/slides/IMG_4823.jpeg</link>
+            <pubDate>Thu, 28 Dec 2023 22:45:37 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://travel-pics.vip/St.%20John%20Cathedral/Outer%20view/thumbs/IMG_4823.jpeg" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://travel-pics.vip/St.%20John%20Cathedral/Outer%20view/slides/IMG_4823.jpeg" width="810" height="1080"/>
+            <jalbum:exif originalDate="Mon, 18 Dec 2023 11:01:12 +0200" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_4823.jpeg</guid>
+        </item>
+        <item>
+            <title>IMG_4824</title>
+            <link>https://travel-pics.vip/St.%20John%20Cathedral/Outer%20view/slides/IMG_4824.jpeg</link>
+            <pubDate>Thu, 28 Dec 2023 22:45:37 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://travel-pics.vip/St.%20John%20Cathedral/Outer%20view/thumbs/IMG_4824.jpeg" width="360" height="270"/>
+            <media:content type="image/jpeg" url="https://travel-pics.vip/St.%20John%20Cathedral/Outer%20view/slides/IMG_4824.jpeg" width="1440" height="1080"/>
+            <jalbum:exif originalDate="Mon, 18 Dec 2023 11:01:21 +0200" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_4824.jpeg</guid>
+        </item>
+        <item>
+            <title>IMG_4825</title>
+            <link>https://travel-pics.vip/St.%20John%20Cathedral/Outer%20view/slides/IMG_4825.jpeg</link>
+            <pubDate>Thu, 28 Dec 2023 22:45:37 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://travel-pics.vip/St.%20John%20Cathedral/Outer%20view/thumbs/IMG_4825.jpeg" width="360" height="270"/>
+            <media:content type="image/jpeg" url="https://travel-pics.vip/St.%20John%20Cathedral/Outer%20view/slides/IMG_4825.jpeg" width="1440" height="1080"/>
+            <jalbum:exif originalDate="Mon, 18 Dec 2023 11:01:22 +0200" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_4825.jpeg</guid>
+        </item>
+    </channel>
+</rss>

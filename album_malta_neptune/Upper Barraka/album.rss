@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Upper Barraka</title>
+   	<link>..</link>
+        <generator>jAlbum 33.3</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://travel-pics.vip/Upper%20Barraka/</jalbum:absolutePath>
+        <item>
+            <title>IMG_4851</title>
+            <link>https://travel-pics.vip/Upper%20Barraka/slides/IMG_4851.jpeg</link>
+            <pubDate>Thu, 28 Dec 2023 22:45:37 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://travel-pics.vip/Upper%20Barraka/thumbs/IMG_4851.jpeg" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://travel-pics.vip/Upper%20Barraka/slides/IMG_4851.jpeg" width="810" height="1080"/>
+            <jalbum:exif originalDate="Mon, 18 Dec 2023 11:17:04 +0200" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_4851.jpeg</guid>
+        </item>
+        <item>
+            <title>IMG_4852</title>
+            <link>https://travel-pics.vip/Upper%20Barraka/slides/IMG_4852.jpeg</link>
+            <pubDate>Thu, 28 Dec 2023 22:45:37 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://travel-pics.vip/Upper%20Barraka/thumbs/IMG_4852.jpeg" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://travel-pics.vip/Upper%20Barraka/slides/IMG_4852.jpeg" width="810" height="1080"/>
+            <jalbum:exif originalDate="Mon, 18 Dec 2023 11:17:25 +0200" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_4852.jpeg</guid>
+        </item>
+        <item>
+            <title>IMG_4853</title>
+            <link>https://travel-pics.vip/Upper%20Barraka/slides/IMG_4853.jpeg</link>
+            <pubDate>Thu, 28 Dec 2023 22:45:37 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://travel-pics.vip/Upper%20Barraka/thumbs/IMG_4853.jpeg" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://travel-pics.vip/Upper%20Barraka/slides/IMG_4853.jpeg" width="810" height="1080"/>
+            <jalbum:exif originalDate="Mon, 18 Dec 2023 11:18:22 +0200" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_4853.jpeg</guid>
+        </item>
+        <item>
+            <title>IMG_4854</title>
+            <link>https://travel-pics.vip/Upper%20Barraka/slides/IMG_4854.jpeg</link>
+            <pubDate>Thu, 28 Dec 2023 22:45:37 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://travel-pics.vip/Upper%20Barraka/thumbs/IMG_4854.jpeg" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://travel-pics.vip/Upper%20Barraka/slides/IMG_4854.jpeg" width="810" height="1080"/>
+            <jalbum:exif originalDate="Mon, 18 Dec 2023 11:18:22 +0200" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_4854.jpeg</guid>
+        </item>
+        <item>
+            <title>IMG_4874</title>
+            <link>https://travel-pics.vip/Upper%20Barraka/slides/IMG_4874.jpeg</link>
+            <pubDate>Thu, 28 Dec 2023 22:45:37 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://travel-pics.vip/Upper%20Barraka/thumbs/IMG_4874.jpeg" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://travel-pics.vip/Upper%20Barraka/slides/IMG_4874.jpeg" width="810" height="1080"/>
+            <jalbum:exif originalDate="Mon, 18 Dec 2023 11:37:28 +0200" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_4874.jpeg</guid>
+        </item>
+        <item>
+            <title>IMG_4875</title>
+            <link>https://travel-pics.vip/Upper%20Barraka/slides/IMG_4875.jpeg</link>
+            <pubDate>Thu, 28 Dec 2023 22:45:37 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://travel-pics.vip/Upper%20Barraka/thumbs/IMG_4875.jpeg" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://travel-pics.vip/Upper%20Barraka/slides/IMG_4875.jpeg" width="810" height="1080"/>
+            <jalbum:exif originalDate="Mon, 18 Dec 2023 11:37:40 +0200" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_4875.jpeg</guid>
+        </item>
+    </channel>
+</rss>

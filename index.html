@@ -1,1 +1,200 @@
-HELLO WORLD!
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Travel pics from various expeditions">
+    <title>Photo Albums</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: black;
+        }
+
+        h1 {
+            font-size: 48px;
+        }
+
+        h2 {
+            font-size: 32px;
+        }
+
+        p {
+            font-size: 24px;
+        }
+
+        ul {
+            list-style-type: none;
+            padding-left: 0;
+        }
+
+        li {
+            margin-bottom: 8px;
+        }
+
+        a {
+            color: white;
+            text-decoration: none;
+            font-size: 18px;
+        }
+
+        a:hover,
+        a:focus {
+            text-decoration: underline;
+        }
+        .albums-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(100%, 1fr));
+            gap: 10px;
+            list-style-type: none;
+            padding-left: 0;
+        }
+
+        .album-item {
+            text-align: center;
+        }
+
+        .album-item img {
+            width: 100%;
+        }
+
+        .album-link {
+            color: white;
+            text-decoration: none;
+            font-size: 24px;
+            display: block;
+        }
+
+        .album-link:hover,
+        .album-link:focus {
+            text-decoration: underline;
+        }
+
+        .normal-text {
+            color: white;
+        }
+
+        /* On screens at least 600px wide, display 2 columns */
+        @media screen and (min-width: 600px) {
+            .albums-grid {
+                grid-template-columns: repeat(auto-fill, minmax(50%, 1fr));
+            }
+        }
+
+        /* On screens at least 900px wide, display 3 columns */
+        @media screen and (min-width: 900px) {
+            .albums-grid {
+                grid-template-columns: repeat(auto-fill, minmax(33%, 1fr));
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <h1 class="normal-text">Travel pics from various expeditions</h1>
+    <h2 class="normal-text">About this page</h2>
+    <p class="normal-text">Boriss Melikjan travel botany and nature photography from various expeditions, big and small journeys and different trips. Separate dedication to study of flora and botanical photo report with careful species identification.</p>
+    <h2 class="normal-text">My other sites</h2>
+    <p class="normal-text"> 
+        &bull; <a class="link" href="https://travel-pics.vip/">travel-pics.vip</a>
+        &bull; <a class="link" href="https://herbarium.info/">herbarium.info</a>
+        &bull; <a class="link" href="https://fungarium.info/">fungarium.info</a> 
+        &bull; <a class="link" href="https://herbarium.info/algaerium.info/">algaerium.info</a>
+        &bull; <a class="link" href="https://herbarium.info/lichenarium.info/">lichenarium.info</a> 
+        &bull; <a class="link" href="https://herbarium.info/plantarium.info/">plantarium.info</a> &bull;
+    </p>
+    <h2 class="normal-text">Photo albums</h2>
+    <ul class="albums-grid">
+		<li class="album-item">
+            <a href="album_malta_neptune/index.html" rel="noopener" class="album-link">
+                <img src="res/thumbs/malta.jpg" alt="Malta Journey. Winter 2023">
+                Malta Journey<br/> Spring 2023
+            </a>
+        </li>
+        <li class="album-item">
+            <a href="album_austria_neptune/index.html" rel="noopener" class="album-link">
+                <img src="res/thumbs/austria.jpg" alt="Austria Journey. Spring 2023">
+                Austria Journey<br/> Spring 2023
+            </a>
+        </li>
+        <li class="album-item">
+            <a href="album_swiss_pluto/index.html" rel="noopener" class="album-link">
+                <img src="res/thumbs/swiss.jpg" alt="Swiss Journey. Spring 2022">
+                Swiss Journey<br/> Spring 2022
+            </a>
+        </li>
+        <li class="album-item">
+            <a href="album_madeira_pluto/index.html" rel="noopener" class="album-link">
+                <img src="res/thumbs/madeira.jpg" alt="Madeira Journey. Winter 2021">
+                Madeira Journey<br/> Winter 2021
+            </a>
+        </li>
+        <li class="album-item">
+            <a href="album_turkey_pluto/index.html" rel="noopener" class="album-link">
+                <img src="res/thumbs/turkey.jpg" alt="Turkey Journey. Summer 2021">
+                Turkey Journey<br/> Summer 2021
+            </a>
+        </li>
+        <li class="album-item">
+            <a href="album_egypt_pluto/index.html" rel="noopener" class="album-link">
+                <img src="res/thumbs/egypt_2019.jpg" alt="Egypt Journey. Winter 2019">
+                Egypt Journey<br/> Winter 2019
+            </a>
+        </li>
+        <li class="album-item">
+            <a href="album_iceland_pluto/index.html" rel="noopener" class="album-link">
+                <img src="res/thumbs/iceland.jpg" alt="Iceland Journey. Summer 2019">
+                Iceland Journey<br/> Summer 2019
+            </a>
+        </li>
+        <li class="album-item">
+            <a href="album_oland_pluto/index.html" rel="noopener" class="album-link">
+                <img src="res/thumbs/austria.jpg" alt="Öland Saar Journey. Spring 2019">
+                Öland Saar Journey<br/> Spring 2019
+            </a>
+        </li>
+        <li class="album-item">
+            <a href="album_tenerife_pluto/index.html" rel="noopener" class="album-link">
+                <img src="res/thumbs/tenerife.jpg" alt="Tenerife Journey. Winter 2018">
+                Tenerife Journey<br/> Winter 2018
+            </a>
+        </li>
+        <li class="album-item">
+            <a href="album_karelia_pluto/index.html" rel="noopener" class="album-link">
+                <img src="res/thumbs/karelia.jpg" alt="Karelia Journey. Summer 2018">
+                Karelia Journey<br/> Summer 2018
+            </a>
+        </li>
+        <li class="album-item">
+            <a href="album_sochi_pluto/index.html" rel="noopener" class="album-link">
+                <img src="res/thumbs/sochi.jpg" alt="Sochi Journey. Spring 2018">
+                Sochi Journey<br/> Spring 2018
+            </a>
+        </li>
+        <li class="album-item">
+            <a href="album_ireland_pluto/index.html" rel="noopener" class="album-link">
+                <img src="res/thumbs/ireland.jpg" alt="Ireland Journey. Autumn 2015">
+                Ireland Journey<br/> Autumn 2015
+            </a>
+        </li>
+        <li class="album-item">
+            <a href="album_egypt_pluto/2012/index.html" rel="noopener" class="album-link">
+                <img src="res/thumbs/egypt_2012.jpg" alt="Egypt Journey. Winter 2012">
+                Egypt Journey<br/> Winter 2012
+            </a>
+        </li>
+    </ul>
+    <h2>My projects</h2>
+    <p class="normal-text"> 
+        &bull; <a class="link" href="https://travel-pics.vip/">travel-pics.vip</a>
+        &bull; <a class="link" href="https://herbarium.info/">herbarium.info</a>
+        &bull; <a class="link" href="https://fungarium.info/">fungarium.info</a> 
+        &bull; <a class="link" href="https://herbarium.info/algaerium.info/">algaerium.info</a>
+        &bull; <a class="link" href="https://herbarium.info/lichenarium.info/">lichenarium.info</a> 
+        &bull; <a class="link" href="https://herbarium.info/plantarium.info/">plantarium.info</a> &bull;
+    </p>
+</body>
+</html>

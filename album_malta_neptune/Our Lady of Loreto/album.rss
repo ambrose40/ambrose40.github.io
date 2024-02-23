@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Our Lady of Loreto</title>
+   	<link>..</link>
+        <generator>jAlbum 33.3</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://travel-pics.vip/Our%20Lady%20of%20Loreto/</jalbum:absolutePath>
+        <item>
+            <title>IMG_5033</title>
+            <link>https://travel-pics.vip/Our%20Lady%20of%20Loreto/slides/IMG_5033.jpeg</link>
+            <pubDate>Thu, 28 Dec 2023 22:45:37 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://travel-pics.vip/Our%20Lady%20of%20Loreto/thumbs/IMG_5033.jpeg" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://travel-pics.vip/Our%20Lady%20of%20Loreto/slides/IMG_5033.jpeg" width="810" height="1080"/>
+            <jalbum:exif originalDate="Tue, 19 Dec 2023 15:28:41 +0200" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_5033.jpeg</guid>
+        </item>
+        <item>
+            <title>IMG_5034</title>
+            <link>https://travel-pics.vip/Our%20Lady%20of%20Loreto/slides/IMG_5034.jpeg</link>
+            <pubDate>Thu, 28 Dec 2023 22:45:37 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://travel-pics.vip/Our%20Lady%20of%20Loreto/thumbs/IMG_5034.jpeg" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://travel-pics.vip/Our%20Lady%20of%20Loreto/slides/IMG_5034.jpeg" width="810" height="1080"/>
+            <jalbum:exif originalDate="Tue, 19 Dec 2023 15:29:04 +0200" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_5034.jpeg</guid>
+        </item>
+    </channel>
+</rss>
