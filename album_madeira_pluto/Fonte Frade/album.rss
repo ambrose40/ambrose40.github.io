@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Fonte Frade</title>
+   	<link>..</link>
+        <generator>jAlbum 26</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://madeira-trip.cc/Fonte%20Frade/</jalbum:absolutePath>
+        <item>
+            <title>DSC07855</title>
+            <link>https://madeira-trip.cc/Fonte%20Frade/slides/DSC07855.JPG</link>
+            <pubDate>Mon, 27 Dec 2021 20:38:58 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://madeira-trip.cc/Fonte%20Frade/thumbs/DSC07855.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://madeira-trip.cc/Fonte%20Frade/slides/DSC07855.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Thu, 23 Dec 2021 11:39:24 +0200" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC07855.JPG</guid>
+        </item>
+        <item>
+            <title>DSC07856</title>
+            <link>https://madeira-trip.cc/Fonte%20Frade/slides/DSC07856.JPG</link>
+            <pubDate>Mon, 27 Dec 2021 20:38:58 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://madeira-trip.cc/Fonte%20Frade/thumbs/DSC07856.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://madeira-trip.cc/Fonte%20Frade/slides/DSC07856.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Thu, 23 Dec 2021 11:39:44 +0200" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC07856.JPG</guid>
+        </item>
+        <item>
+            <title>DSC07860</title>
+            <link>https://madeira-trip.cc/Fonte%20Frade/slides/DSC07860.JPG</link>
+            <pubDate>Mon, 27 Dec 2021 20:38:58 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://madeira-trip.cc/Fonte%20Frade/thumbs/DSC07860.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://madeira-trip.cc/Fonte%20Frade/slides/DSC07860.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Thu, 23 Dec 2021 11:44:07 +0200" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC07860.JPG</guid>
+        </item>
+        <item>
+            <title>DSC07861</title>
+            <link>https://madeira-trip.cc/Fonte%20Frade/slides/DSC07861.JPG</link>
+            <pubDate>Mon, 27 Dec 2021 20:38:58 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://madeira-trip.cc/Fonte%20Frade/thumbs/DSC07861.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://madeira-trip.cc/Fonte%20Frade/slides/DSC07861.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Thu, 23 Dec 2021 11:44:17 +0200" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC07861.JPG</guid>
+        </item>
+        <item>
+            <title>DSC07862</title>
+            <link>https://madeira-trip.cc/Fonte%20Frade/slides/DSC07862.JPG</link>
+            <pubDate>Mon, 27 Dec 2021 20:38:58 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://madeira-trip.cc/Fonte%20Frade/thumbs/DSC07862.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://madeira-trip.cc/Fonte%20Frade/slides/DSC07862.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Thu, 23 Dec 2021 11:44:23 +0200" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC07862.JPG</guid>
+        </item>
+    </channel>
+</rss>

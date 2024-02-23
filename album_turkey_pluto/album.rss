@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Turkey 2021: Boris Melikian Expeditions Collection.</title>
+   	<link>.</link>
+        <generator>jAlbum 25.1</generator>
+   		<description>Antalya province, Turkey. Summer 2021.
+
+Tazi Canyon, Köprülü Canyon, Göynuk Canyon, Flora, Fauna.</description>
+        <jalbum:absolutePath>https://turkey-trip.cc/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="https://turkey-trip.cc/G%C3%B6yn%C3%BCk%20Canyon/album.rss" title="Göynük Canyon" thumbnail="https://turkey-trip.cc/G%C3%B6yn%C3%BCk%20Canyon/thumbs/DSC03133.JPG" thumbnailWidth="270" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="https://turkey-trip.cc/Tazi%20Canyon/album.rss" title="Tazi Canyon" thumbnail="https://turkey-trip.cc/Tazi%20Canyon/thumbs/DSC03275.JPG" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="https://turkey-trip.cc/K%C3%B6pr%C3%BCl%C3%BC%20Canyon/album.rss" title="Köprülü Canyon" thumbnail="https://turkey-trip.cc/K%C3%B6pr%C3%BCl%C3%BC%20Canyon/thumbs/DSC03175.JPG" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="https://turkey-trip.cc/Flora/album.rss" title="Flora" thumbnail="https://turkey-trip.cc/Flora/en.%20castor%20bean%2C%20ru.%20%D0%9A%D0%BB%D0%B5%D1%89%D0%B5%D0%B2%D0%B8%D0%BD%D0%B0%2C%20lat.%20Ricinus%20communis/thumbs/DSC03438.JPG" thumbnailWidth="270" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="https://turkey-trip.cc/Fauna/album.rss" title="Fauna" thumbnail="https://turkey-trip.cc/Fauna/thumbs/DSC03119.JPG" thumbnailWidth="480" thumbnailHeight="360" />
+    </channel>
+</rss>

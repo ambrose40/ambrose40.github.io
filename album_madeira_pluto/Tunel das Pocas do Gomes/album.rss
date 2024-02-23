@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Tunel das Pocas do Gomes</title>
+   	<link>..</link>
+        <generator>jAlbum 26</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://madeira-trip.cc/Tunel%20das%20Pocas%20do%20Gomes/</jalbum:absolutePath>
+        <item>
+            <title>DSC07991</title>
+            <link>https://madeira-trip.cc/Tunel%20das%20Pocas%20do%20Gomes/slides/DSC07991.JPG</link>
+            <pubDate>Mon, 27 Dec 2021 20:38:58 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://madeira-trip.cc/Tunel%20das%20Pocas%20do%20Gomes/thumbs/DSC07991.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://madeira-trip.cc/Tunel%20das%20Pocas%20do%20Gomes/slides/DSC07991.JPG" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Fri, 24 Dec 2021 11:33:41 +0200" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC07991.JPG</guid>
+        </item>
+        <item>
+            <title>DSC07992</title>
+            <link>https://madeira-trip.cc/Tunel%20das%20Pocas%20do%20Gomes/slides/DSC07992.JPG</link>
+            <pubDate>Mon, 27 Dec 2021 20:38:58 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://madeira-trip.cc/Tunel%20das%20Pocas%20do%20Gomes/thumbs/DSC07992.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://madeira-trip.cc/Tunel%20das%20Pocas%20do%20Gomes/slides/DSC07992.JPG" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Fri, 24 Dec 2021 11:33:52 +0200" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC07992.JPG</guid>
+        </item>
+        <item>
+            <title>DSC07993</title>
+            <link>https://madeira-trip.cc/Tunel%20das%20Pocas%20do%20Gomes/slides/DSC07993.JPG</link>
+            <pubDate>Mon, 27 Dec 2021 20:38:58 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://madeira-trip.cc/Tunel%20das%20Pocas%20do%20Gomes/thumbs/DSC07993.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://madeira-trip.cc/Tunel%20das%20Pocas%20do%20Gomes/slides/DSC07993.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Fri, 24 Dec 2021 11:34:13 +0200" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC07993.JPG</guid>
+        </item>
+    </channel>
+</rss>

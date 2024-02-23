@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Down</title>
+   	<link>../..</link>
+        <generator>jAlbum 25.1</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://turkey-trip.cc/K%C3%B6pr%C3%BCl%C3%BC%20Canyon/Down/</jalbum:absolutePath>
+        <item>
+            <title>DSC03191</title>
+            <link>https://turkey-trip.cc/K%C3%B6pr%C3%BCl%C3%BC%20Canyon/Down/slides/DSC03191.JPG</link>
+            <pubDate>Sat, 12 Jun 2021 19:27:29 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://turkey-trip.cc/K%C3%B6pr%C3%BCl%C3%BC%20Canyon/Down/thumbs/DSC03191.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://turkey-trip.cc/K%C3%B6pr%C3%BCl%C3%BC%20Canyon/Down/slides/DSC03191.JPG" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Mon, 07 Jun 2021 14:25:24 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC03191.JPG</guid>
+        </item>
+        <item>
+            <title>DSC03192</title>
+            <link>https://turkey-trip.cc/K%C3%B6pr%C3%BCl%C3%BC%20Canyon/Down/slides/DSC03192.JPG</link>
+            <pubDate>Sat, 12 Jun 2021 19:27:29 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://turkey-trip.cc/K%C3%B6pr%C3%BCl%C3%BC%20Canyon/Down/thumbs/DSC03192.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://turkey-trip.cc/K%C3%B6pr%C3%BCl%C3%BC%20Canyon/Down/slides/DSC03192.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Mon, 07 Jun 2021 14:25:39 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC03192.JPG</guid>
+        </item>
+        <item>
+            <title>DSC03193</title>
+            <link>https://turkey-trip.cc/K%C3%B6pr%C3%BCl%C3%BC%20Canyon/Down/slides/DSC03193.JPG</link>
+            <pubDate>Sat, 12 Jun 2021 19:27:29 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://turkey-trip.cc/K%C3%B6pr%C3%BCl%C3%BC%20Canyon/Down/thumbs/DSC03193.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://turkey-trip.cc/K%C3%B6pr%C3%BCl%C3%BC%20Canyon/Down/slides/DSC03193.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Mon, 07 Jun 2021 14:26:21 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC03193.JPG</guid>
+        </item>
+    </channel>
+</rss>
