@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Danube</title>
+   	<link>..</link>
+        <generator>jAlbum 31.1</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://austria-trip.cc/Danube/</jalbum:absolutePath>
+        <item>
+            <title>0IMG_2559</title>
+            <link>https://austria-trip.cc/Danube/slides/0IMG_2559.JPEG</link>
+            <pubDate>Sat, 01 Jul 2023 01:37:21 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://austria-trip.cc/Danube/thumbs/0IMG_2559.JPEG" width="360" height="270"/>
+            <media:content type="image/jpeg" url="https://austria-trip.cc/Danube/slides/0IMG_2559.JPEG" width="1440" height="1080"/>
+            <jalbum:exif originalDate="Thu, 04 May 2023 15:02:57 +0300" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/0IMG_2559.JPEG</guid>
+        </item>
+        <item>
+            <title>IMG_2551</title>
+            <link>https://austria-trip.cc/Danube/slides/IMG_2551.JPEG</link>
+            <pubDate>Sat, 01 Jul 2023 01:37:21 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://austria-trip.cc/Danube/thumbs/IMG_2551.JPEG" width="360" height="270"/>
+            <media:content type="image/jpeg" url="https://austria-trip.cc/Danube/slides/IMG_2551.JPEG" width="1440" height="1080"/>
+            <jalbum:exif originalDate="Thu, 04 May 2023 14:50:43 +0300" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_2551.JPEG</guid>
+        </item>
+        <item>
+            <title>IMG_2553</title>
+            <link>https://austria-trip.cc/Danube/slides/IMG_2553.jpg</link>
+            <pubDate>Sat, 01 Jul 2023 01:37:21 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://austria-trip.cc/Danube/thumbs/IMG_2553.jpg" width="360" height="280"/>
+            <media:content type="image/jpeg" url="https://austria-trip.cc/Danube/slides/IMG_2553.jpg" width="1387" height="1080"/>
+            <jalbum:exif originalDate="Thu, 04 May 2023 14:57:39 +0300" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_2553.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_2554</title>
+            <link>https://austria-trip.cc/Danube/slides/IMG_2554.JPEG</link>
+            <pubDate>Sat, 01 Jul 2023 01:37:21 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://austria-trip.cc/Danube/thumbs/IMG_2554.JPEG" width="360" height="270"/>
+            <media:content type="image/jpeg" url="https://austria-trip.cc/Danube/slides/IMG_2554.JPEG" width="1440" height="1080"/>
+            <jalbum:exif originalDate="Thu, 04 May 2023 14:58:02 +0300" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_2554.JPEG</guid>
+        </item>
+        <item>
+            <title>IMG_2558</title>
+            <link>https://austria-trip.cc/Danube/slides/IMG_2558.JPEG</link>
+            <pubDate>Sat, 01 Jul 2023 01:37:21 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://austria-trip.cc/Danube/thumbs/IMG_2558.JPEG" width="360" height="270"/>
+            <media:content type="image/jpeg" url="https://austria-trip.cc/Danube/slides/IMG_2558.JPEG" width="1440" height="1080"/>
+            <jalbum:exif originalDate="Thu, 04 May 2023 15:02:27 +0300" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_2558.JPEG</guid>
+        </item>
+        <item>
+            <title>IMG_2561</title>
+            <link>https://austria-trip.cc/Danube/slides/IMG_2561.JPEG</link>
+            <pubDate>Sat, 01 Jul 2023 01:37:21 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://austria-trip.cc/Danube/thumbs/IMG_2561.JPEG" width="360" height="270"/>
+            <media:content type="image/jpeg" url="https://austria-trip.cc/Danube/slides/IMG_2561.JPEG" width="1440" height="1080"/>
+            <jalbum:exif originalDate="Thu, 04 May 2023 15:03:06 +0300" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_2561.JPEG</guid>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" width="32" height="32">
+	<g fill="#eeeeee">
+	<rect id="indexSquare" x="70" y="68" width="243" height="243" />
+	<use href="#indexSquare" transform="translate(308)" />
+	<use href="#indexSquare" transform="translate(616)" />
+	<use href="#indexSquare" transform="translate(0 308)" />
+	<use href="#indexSquare" transform="translate(308 308)" />
+	<use href="#indexSquare" transform="translate(616 308)" />
+	<use href="#indexSquare" transform="translate(0 616)" />
+	<use href="#indexSquare" transform="translate(308 616)" />
+	<use href="#indexSquare" transform="translate(616 616)" />
+	</g>
+</svg>

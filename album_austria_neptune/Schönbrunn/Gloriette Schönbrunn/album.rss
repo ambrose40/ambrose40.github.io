@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Gloriette Schönbrunn</title>
+   	<link>../..</link>
+        <generator>jAlbum 31.1</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://austria-trip.cc/Sch%C3%B6nbrunn/Gloriette%20Sch%C3%B6nbrunn/</jalbum:absolutePath>
+        <item>
+            <title>0SET08648</title>
+            <link>https://austria-trip.cc/Sch%C3%B6nbrunn/Gloriette%20Sch%C3%B6nbrunn/slides/0SET08648.JPG</link>
+            <pubDate>Sat, 01 Jul 2023 01:37:21 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://austria-trip.cc/Sch%C3%B6nbrunn/Gloriette%20Sch%C3%B6nbrunn/thumbs/0SET08648.JPG" width="360" height="270"/>
+            <media:content type="image/jpeg" url="https://austria-trip.cc/Sch%C3%B6nbrunn/Gloriette%20Sch%C3%B6nbrunn/slides/0SET08648.JPG" width="1440" height="1080"/>
+            <jalbum:exif originalDate="Mon, 01 May 2023 12:58:22 +0300" cameraMake="SONY" cameraModel="DSC-HX99"/>
+            <guid isPermaLink="false">slides/0SET08648.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_1926</title>
+            <link>https://austria-trip.cc/Sch%C3%B6nbrunn/Gloriette%20Sch%C3%B6nbrunn/slides/IMG_1926.JPEG</link>
+            <pubDate>Sat, 01 Jul 2023 01:37:21 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://austria-trip.cc/Sch%C3%B6nbrunn/Gloriette%20Sch%C3%B6nbrunn/thumbs/IMG_1926.JPEG" width="360" height="270"/>
+            <media:content type="image/jpeg" url="https://austria-trip.cc/Sch%C3%B6nbrunn/Gloriette%20Sch%C3%B6nbrunn/slides/IMG_1926.JPEG" width="1440" height="1080"/>
+            <jalbum:exif originalDate="Mon, 01 May 2023 12:58:40 +0300" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_1926.JPEG</guid>
+        </item>
+        <item>
+            <title>SET08647</title>
+            <link>https://austria-trip.cc/Sch%C3%B6nbrunn/Gloriette%20Sch%C3%B6nbrunn/slides/SET08647.JPG</link>
+            <pubDate>Sat, 01 Jul 2023 01:37:21 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://austria-trip.cc/Sch%C3%B6nbrunn/Gloriette%20Sch%C3%B6nbrunn/thumbs/SET08647.JPG" width="360" height="270"/>
+            <media:content type="image/jpeg" url="https://austria-trip.cc/Sch%C3%B6nbrunn/Gloriette%20Sch%C3%B6nbrunn/slides/SET08647.JPG" width="1440" height="1080"/>
+            <jalbum:exif originalDate="Mon, 01 May 2023 12:58:19 +0300" cameraMake="SONY" cameraModel="DSC-HX99"/>
+            <guid isPermaLink="false">slides/SET08647.JPG</guid>
+        </item>
+    </channel>
+</rss>

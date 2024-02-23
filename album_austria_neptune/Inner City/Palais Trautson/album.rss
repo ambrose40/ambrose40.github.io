@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Palais Trautson</title>
+   	<link>../..</link>
+        <generator>jAlbum 31.1</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://austria-trip.cc/Inner%20City/Palais%20Trautson/</jalbum:absolutePath>
+        <item>
+            <title>IMG_1618</title>
+            <link>https://austria-trip.cc/Inner%20City/Palais%20Trautson/slides/IMG_1618.JPEG</link>
+            <pubDate>Sat, 01 Jul 2023 01:37:21 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://austria-trip.cc/Inner%20City/Palais%20Trautson/thumbs/IMG_1618.JPEG" width="360" height="270"/>
+            <media:content type="image/jpeg" url="https://austria-trip.cc/Inner%20City/Palais%20Trautson/slides/IMG_1618.JPEG" width="1440" height="1080"/>
+            <jalbum:exif originalDate="Sun, 30 Apr 2023 10:01:35 +0300" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_1618.JPEG</guid>
+        </item>
+        <item>
+            <title>IMG_1619</title>
+            <link>https://austria-trip.cc/Inner%20City/Palais%20Trautson/slides/IMG_1619.JPEG</link>
+            <pubDate>Sat, 01 Jul 2023 01:37:21 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://austria-trip.cc/Inner%20City/Palais%20Trautson/thumbs/IMG_1619.JPEG" width="360" height="270"/>
+            <media:content type="image/jpeg" url="https://austria-trip.cc/Inner%20City/Palais%20Trautson/slides/IMG_1619.JPEG" width="1440" height="1080"/>
+            <jalbum:exif originalDate="Sun, 30 Apr 2023 10:01:39 +0300" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_1619.JPEG</guid>
+        </item>
+        <item>
+            <title>IMG_1620</title>
+            <link>https://austria-trip.cc/Inner%20City/Palais%20Trautson/slides/IMG_1620.JPEG</link>
+            <pubDate>Sat, 01 Jul 2023 01:37:21 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://austria-trip.cc/Inner%20City/Palais%20Trautson/thumbs/IMG_1620.JPEG" width="360" height="270"/>
+            <media:content type="image/jpeg" url="https://austria-trip.cc/Inner%20City/Palais%20Trautson/slides/IMG_1620.JPEG" width="1440" height="1080"/>
+            <jalbum:exif originalDate="Sun, 30 Apr 2023 10:01:39 +0300" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_1620.JPEG</guid>
+        </item>
+    </channel>
+</rss>

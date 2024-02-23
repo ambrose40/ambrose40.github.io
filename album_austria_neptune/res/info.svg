@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" width="32" height="32">
+	<defs>
+		<mask id="letterI">
+			<rect width="1000" height="1000" fill="#ffffff" />
+			<circle cx="500" cy="250" r="70" />
+			<polygon points="370 375, 565 375, 565 770, 435 770, 435 470, 370 470" />
+		</mask>
+	</defs>
+	<g fill="#eeeeee">
+	<circle cx="500" cy="500" r="430" mask="url(#letterI)" />
+	</g>
+</svg>

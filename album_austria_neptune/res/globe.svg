@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" width="32" height="32">
+	<g stroke="#dddddd" stroke-width="50" fill="none">
+	<circle cx="500" cy="500" r="405" />
+	<path d="M500 95, 500 905 M95 500, 905 500 M151 300, 849 300 M151 700, 849 700 M500 95 A 505 505 0 0 0 500 905 M 500 95 A 505 505 0 0 1 500 905" />
+	</g>
+</svg>

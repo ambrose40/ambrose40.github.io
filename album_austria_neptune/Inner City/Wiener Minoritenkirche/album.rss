@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Wiener Minoritenkirche</title>
+   	<link>../..</link>
+        <generator>jAlbum 31.1</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://austria-trip.cc/Inner%20City/Wiener%20Minoritenkirche/</jalbum:absolutePath>
+        <item>
+            <title>IMG_1591</title>
+            <link>https://austria-trip.cc/Inner%20City/Wiener%20Minoritenkirche/slides/IMG_1591.JPEG</link>
+            <pubDate>Sat, 01 Jul 2023 01:37:21 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://austria-trip.cc/Inner%20City/Wiener%20Minoritenkirche/thumbs/IMG_1591.JPEG" width="360" height="270"/>
+            <media:content type="image/jpeg" url="https://austria-trip.cc/Inner%20City/Wiener%20Minoritenkirche/slides/IMG_1591.JPEG" width="1440" height="1080"/>
+            <jalbum:exif originalDate="Sat, 29 Apr 2023 16:31:22 +0300" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_1591.JPEG</guid>
+        </item>
+        <item>
+            <title>IMG_1592</title>
+            <link>https://austria-trip.cc/Inner%20City/Wiener%20Minoritenkirche/slides/IMG_1592.JPEG</link>
+            <pubDate>Sat, 01 Jul 2023 01:37:21 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://austria-trip.cc/Inner%20City/Wiener%20Minoritenkirche/thumbs/IMG_1592.JPEG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://austria-trip.cc/Inner%20City/Wiener%20Minoritenkirche/slides/IMG_1592.JPEG" width="810" height="1080"/>
+            <jalbum:exif originalDate="Sat, 29 Apr 2023 16:31:34 +0300" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_1592.JPEG</guid>
+        </item>
+        <item>
+            <title>IMG_1593</title>
+            <link>https://austria-trip.cc/Inner%20City/Wiener%20Minoritenkirche/slides/IMG_1593.JPEG</link>
+            <pubDate>Sat, 01 Jul 2023 01:37:21 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://austria-trip.cc/Inner%20City/Wiener%20Minoritenkirche/thumbs/IMG_1593.JPEG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://austria-trip.cc/Inner%20City/Wiener%20Minoritenkirche/slides/IMG_1593.JPEG" width="810" height="1080"/>
+            <jalbum:exif originalDate="Sat, 29 Apr 2023 16:34:12 +0300" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_1593.JPEG</guid>
+        </item>
+        <item>
+            <title>IMG_1594</title>
+            <link>https://austria-trip.cc/Inner%20City/Wiener%20Minoritenkirche/slides/IMG_1594.JPEG</link>
+            <pubDate>Sat, 01 Jul 2023 01:37:21 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://austria-trip.cc/Inner%20City/Wiener%20Minoritenkirche/thumbs/IMG_1594.JPEG" width="360" height="270"/>
+            <media:content type="image/jpeg" url="https://austria-trip.cc/Inner%20City/Wiener%20Minoritenkirche/slides/IMG_1594.JPEG" width="1440" height="1080"/>
+            <jalbum:exif originalDate="Sat, 29 Apr 2023 16:34:55 +0300" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_1594.JPEG</guid>
+        </item>
+    </channel>
+</rss>

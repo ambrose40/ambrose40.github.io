@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" width="32" height="32">
+	<g stroke="#dddddd" stroke-width="185">
+	<path id="pauseBar" d="M330 130 v760" />
+	<use href="#pauseBar" transform="translate(340)" />
+	</g>
+</svg>

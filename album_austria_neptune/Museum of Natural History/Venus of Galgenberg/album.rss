@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Venus of Galgenberg</title>
+   	<link>../..</link>
+        <generator>jAlbum 31.1</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://austria-trip.cc/Museum%20of%20Natural%20History/Venus%20of%20Galgenberg/</jalbum:absolutePath>
+        <item>
+            <title>IMG_2590</title>
+            <link>https://austria-trip.cc/Museum%20of%20Natural%20History/Venus%20of%20Galgenberg/slides/IMG_2590.JPEG</link>
+            <pubDate>Sat, 01 Jul 2023 01:37:21 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://austria-trip.cc/Museum%20of%20Natural%20History/Venus%20of%20Galgenberg/thumbs/IMG_2590.JPEG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://austria-trip.cc/Museum%20of%20Natural%20History/Venus%20of%20Galgenberg/slides/IMG_2590.JPEG" width="810" height="1080"/>
+            <jalbum:exif originalDate="Fri, 05 May 2023 13:28:39 +0300" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_2590.JPEG</guid>
+        </item>
+        <item>
+            <title>IMG_2591</title>
+            <link>https://austria-trip.cc/Museum%20of%20Natural%20History/Venus%20of%20Galgenberg/slides/IMG_2591.JPEG</link>
+            <pubDate>Sat, 01 Jul 2023 01:37:21 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://austria-trip.cc/Museum%20of%20Natural%20History/Venus%20of%20Galgenberg/thumbs/IMG_2591.JPEG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://austria-trip.cc/Museum%20of%20Natural%20History/Venus%20of%20Galgenberg/slides/IMG_2591.JPEG" width="810" height="1080"/>
+            <jalbum:exif originalDate="Fri, 05 May 2023 13:28:41 +0300" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_2591.JPEG</guid>
+        </item>
+        <item>
+            <title>IMG_2592</title>
+            <link>https://austria-trip.cc/Museum%20of%20Natural%20History/Venus%20of%20Galgenberg/slides/IMG_2592.JPEG</link>
+            <pubDate>Sat, 01 Jul 2023 01:37:21 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://austria-trip.cc/Museum%20of%20Natural%20History/Venus%20of%20Galgenberg/thumbs/IMG_2592.JPEG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://austria-trip.cc/Museum%20of%20Natural%20History/Venus%20of%20Galgenberg/slides/IMG_2592.JPEG" width="810" height="1080"/>
+            <jalbum:exif originalDate="Fri, 05 May 2023 13:28:49 +0300" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_2592.JPEG</guid>
+        </item>
+    </channel>
+</rss>

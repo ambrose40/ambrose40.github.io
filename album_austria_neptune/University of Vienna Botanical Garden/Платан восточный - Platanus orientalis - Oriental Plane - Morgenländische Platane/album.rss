@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Платан восточный - Platanus orientalis - Oriental Plane - Morgenländische Platane</title>
+   	<link>../..</link>
+        <generator>jAlbum 31.1</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://austria-trip.cc/University%20of%20Vienna%20Botanical%20Garden/%D0%9F%D0%BB%D0%B0%D1%82%D0%B0%D0%BD%20%D0%B2%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%BD%D1%8B%D0%B9%20-%20Platanus%20orientalis%20-%20Oriental%20Plane%20-%20Morgenl%C3%A4ndische%20Platane/</jalbum:absolutePath>
+        <item>
+            <title>SET08476</title>
+            <link>https://austria-trip.cc/University%20of%20Vienna%20Botanical%20Garden/%D0%9F%D0%BB%D0%B0%D1%82%D0%B0%D0%BD%20%D0%B2%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%BD%D1%8B%D0%B9%20-%20Platanus%20orientalis%20-%20Oriental%20Plane%20-%20Morgenl%C3%A4ndische%20Platane/slides/SET08476.JPG</link>
+            <pubDate>Sat, 01 Jul 2023 01:37:21 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://austria-trip.cc/University%20of%20Vienna%20Botanical%20Garden/%D0%9F%D0%BB%D0%B0%D1%82%D0%B0%D0%BD%20%D0%B2%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%BD%D1%8B%D0%B9%20-%20Platanus%20orientalis%20-%20Oriental%20Plane%20-%20Morgenl%C3%A4ndische%20Platane/thumbs/SET08476.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://austria-trip.cc/University%20of%20Vienna%20Botanical%20Garden/%D0%9F%D0%BB%D0%B0%D1%82%D0%B0%D0%BD%20%D0%B2%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%BD%D1%8B%D0%B9%20-%20Platanus%20orientalis%20-%20Oriental%20Plane%20-%20Morgenl%C3%A4ndische%20Platane/slides/SET08476.JPG" width="810" height="1080"/>
+            <jalbum:exif originalDate="Sun, 30 Apr 2023 13:19:14 +0300" cameraMake="SONY" cameraModel="DSC-HX99"/>
+            <guid isPermaLink="false">slides/SET08476.JPG</guid>
+        </item>
+        <item>
+            <title>SET08477</title>
+            <link>https://austria-trip.cc/University%20of%20Vienna%20Botanical%20Garden/%D0%9F%D0%BB%D0%B0%D1%82%D0%B0%D0%BD%20%D0%B2%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%BD%D1%8B%D0%B9%20-%20Platanus%20orientalis%20-%20Oriental%20Plane%20-%20Morgenl%C3%A4ndische%20Platane/slides/SET08477.JPG</link>
+            <pubDate>Sat, 01 Jul 2023 01:37:21 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://austria-trip.cc/University%20of%20Vienna%20Botanical%20Garden/%D0%9F%D0%BB%D0%B0%D1%82%D0%B0%D0%BD%20%D0%B2%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%BD%D1%8B%D0%B9%20-%20Platanus%20orientalis%20-%20Oriental%20Plane%20-%20Morgenl%C3%A4ndische%20Platane/thumbs/SET08477.JPG" width="360" height="270"/>
+            <media:content type="image/jpeg" url="https://austria-trip.cc/University%20of%20Vienna%20Botanical%20Garden/%D0%9F%D0%BB%D0%B0%D1%82%D0%B0%D0%BD%20%D0%B2%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%BD%D1%8B%D0%B9%20-%20Platanus%20orientalis%20-%20Oriental%20Plane%20-%20Morgenl%C3%A4ndische%20Platane/slides/SET08477.JPG" width="1440" height="1080"/>
+            <jalbum:exif originalDate="Sun, 30 Apr 2023 13:19:23 +0300" cameraMake="SONY" cameraModel="DSC-HX99"/>
+            <guid isPermaLink="false">slides/SET08477.JPG</guid>
+        </item>
+    </channel>
+</rss>

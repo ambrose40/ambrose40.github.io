@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Venus of Willendorf</title>
+   	<link>../..</link>
+        <generator>jAlbum 31.1</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://austria-trip.cc/Museum%20of%20Natural%20History/Venus%20of%20Willendorf/</jalbum:absolutePath>
+        <item>
+            <title>IMG_2595</title>
+            <link>https://austria-trip.cc/Museum%20of%20Natural%20History/Venus%20of%20Willendorf/slides/IMG_2595.JPEG</link>
+            <pubDate>Sat, 01 Jul 2023 01:37:21 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://austria-trip.cc/Museum%20of%20Natural%20History/Venus%20of%20Willendorf/thumbs/IMG_2595.JPEG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://austria-trip.cc/Museum%20of%20Natural%20History/Venus%20of%20Willendorf/slides/IMG_2595.JPEG" width="810" height="1080"/>
+            <jalbum:exif originalDate="Fri, 05 May 2023 13:29:13 +0300" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_2595.JPEG</guid>
+        </item>
+        <item>
+            <title>IMG_2596</title>
+            <link>https://austria-trip.cc/Museum%20of%20Natural%20History/Venus%20of%20Willendorf/slides/IMG_2596.JPEG</link>
+            <pubDate>Sat, 01 Jul 2023 01:37:21 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://austria-trip.cc/Museum%20of%20Natural%20History/Venus%20of%20Willendorf/thumbs/IMG_2596.JPEG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://austria-trip.cc/Museum%20of%20Natural%20History/Venus%20of%20Willendorf/slides/IMG_2596.JPEG" width="810" height="1080"/>
+            <jalbum:exif originalDate="Fri, 05 May 2023 13:29:18 +0300" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_2596.JPEG</guid>
+        </item>
+        <item>
+            <title>IMG_2597</title>
+            <link>https://austria-trip.cc/Museum%20of%20Natural%20History/Venus%20of%20Willendorf/slides/IMG_2597.JPEG</link>
+            <pubDate>Sat, 01 Jul 2023 01:37:21 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://austria-trip.cc/Museum%20of%20Natural%20History/Venus%20of%20Willendorf/thumbs/IMG_2597.JPEG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://austria-trip.cc/Museum%20of%20Natural%20History/Venus%20of%20Willendorf/slides/IMG_2597.JPEG" width="810" height="1080"/>
+            <jalbum:exif originalDate="Fri, 05 May 2023 13:29:18 +0300" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_2597.JPEG</guid>
+        </item>
+        <item>
+            <title>IMG_2598</title>
+            <link>https://austria-trip.cc/Museum%20of%20Natural%20History/Venus%20of%20Willendorf/slides/IMG_2598.JPEG</link>
+            <pubDate>Sat, 01 Jul 2023 01:37:21 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://austria-trip.cc/Museum%20of%20Natural%20History/Venus%20of%20Willendorf/thumbs/IMG_2598.JPEG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://austria-trip.cc/Museum%20of%20Natural%20History/Venus%20of%20Willendorf/slides/IMG_2598.JPEG" width="810" height="1080"/>
+            <jalbum:exif originalDate="Fri, 05 May 2023 13:29:19 +0300" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_2598.JPEG</guid>
+        </item>
+    </channel>
+</rss>

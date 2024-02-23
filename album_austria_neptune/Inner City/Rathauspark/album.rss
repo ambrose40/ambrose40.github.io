@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Rathauspark</title>
+   	<link>../..</link>
+        <generator>jAlbum 31.1</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://austria-trip.cc/Inner%20City/Rathauspark/</jalbum:absolutePath>
+        <item>
+            <title>IMG_1586</title>
+            <link>https://austria-trip.cc/Inner%20City/Rathauspark/slides/IMG_1586.JPEG</link>
+            <pubDate>Sat, 01 Jul 2023 01:37:21 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://austria-trip.cc/Inner%20City/Rathauspark/thumbs/IMG_1586.JPEG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://austria-trip.cc/Inner%20City/Rathauspark/slides/IMG_1586.JPEG" width="810" height="1080"/>
+            <jalbum:exif originalDate="Sat, 29 Apr 2023 16:17:15 +0300" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_1586.JPEG</guid>
+        </item>
+        <item>
+            <title>IMG_1587</title>
+            <link>https://austria-trip.cc/Inner%20City/Rathauspark/slides/IMG_1587.JPEG</link>
+            <pubDate>Sat, 01 Jul 2023 01:37:21 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://austria-trip.cc/Inner%20City/Rathauspark/thumbs/IMG_1587.JPEG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://austria-trip.cc/Inner%20City/Rathauspark/slides/IMG_1587.JPEG" width="810" height="1080"/>
+            <jalbum:exif originalDate="Sat, 29 Apr 2023 16:18:17 +0300" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_1587.JPEG</guid>
+        </item>
+        <item>
+            <title>IMG_1588</title>
+            <link>https://austria-trip.cc/Inner%20City/Rathauspark/slides/IMG_1588.JPEG</link>
+            <pubDate>Sat, 01 Jul 2023 01:37:21 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://austria-trip.cc/Inner%20City/Rathauspark/thumbs/IMG_1588.JPEG" width="360" height="270"/>
+            <media:content type="image/jpeg" url="https://austria-trip.cc/Inner%20City/Rathauspark/slides/IMG_1588.JPEG" width="1440" height="1080"/>
+            <jalbum:exif originalDate="Sat, 29 Apr 2023 16:18:22 +0300" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_1588.JPEG</guid>
+        </item>
+        <item>
+            <title>IMG_1589</title>
+            <link>https://austria-trip.cc/Inner%20City/Rathauspark/slides/IMG_1589.JPEG</link>
+            <pubDate>Sat, 01 Jul 2023 01:37:21 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://austria-trip.cc/Inner%20City/Rathauspark/thumbs/IMG_1589.JPEG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://austria-trip.cc/Inner%20City/Rathauspark/slides/IMG_1589.JPEG" width="810" height="1080"/>
+            <jalbum:exif originalDate="Sat, 29 Apr 2023 16:19:46 +0300" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_1589.JPEG</guid>
+        </item>
+        <item>
+            <title>IMG_1590</title>
+            <link>https://austria-trip.cc/Inner%20City/Rathauspark/slides/IMG_1590.JPEG</link>
+            <pubDate>Sat, 01 Jul 2023 01:37:21 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://austria-trip.cc/Inner%20City/Rathauspark/thumbs/IMG_1590.JPEG" width="360" height="270"/>
+            <media:content type="image/jpeg" url="https://austria-trip.cc/Inner%20City/Rathauspark/slides/IMG_1590.JPEG" width="1440" height="1080"/>
+            <jalbum:exif originalDate="Sat, 29 Apr 2023 16:20:36 +0300" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_1590.JPEG</guid>
+        </item>
+    </channel>
+</rss>

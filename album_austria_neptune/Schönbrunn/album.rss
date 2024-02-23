@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Schönbrunn</title>
+   	<link>..</link>
+        <generator>jAlbum 31.1</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://austria-trip.cc/Sch%C3%B6nbrunn/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="https://austria-trip.cc/Sch%C3%B6nbrunn/From%20Hill/album.rss" title="From Hill" thumbnail="https://austria-trip.cc/Sch%C3%B6nbrunn/thumbs/From%20Hill.jpg" thumbnailWidth="450" thumbnailHeight="337" />
+    	<jalbum:link rel="sub" href="https://austria-trip.cc/Sch%C3%B6nbrunn/Gloriette%20Sch%C3%B6nbrunn/album.rss" title="Gloriette Schönbrunn" thumbnail="https://austria-trip.cc/Sch%C3%B6nbrunn/thumbs/Gloriette%20Sch%C3%B6nbrunn.jpg" thumbnailWidth="450" thumbnailHeight="337" />
+    	<jalbum:link rel="sub" href="https://austria-trip.cc/Sch%C3%B6nbrunn/Japanese%20Garden/album.rss" title="Japanese Garden" thumbnail="https://austria-trip.cc/Sch%C3%B6nbrunn/thumbs/Japanese%20Garden.jpg" thumbnailWidth="450" thumbnailHeight="337" />
+    	<jalbum:link rel="sub" href="https://austria-trip.cc/Sch%C3%B6nbrunn/Neptune%20Fountain/album.rss" title="Neptune Fountain" thumbnail="https://austria-trip.cc/Sch%C3%B6nbrunn/thumbs/Neptune%20Fountain.jpg" thumbnailWidth="450" thumbnailHeight="337" />
+        <item>
+            <title>IMG_1902</title>
+            <link>https://austria-trip.cc/Sch%C3%B6nbrunn/slides/IMG_1902.JPEG</link>
+            <pubDate>Sat, 01 Jul 2023 01:37:21 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://austria-trip.cc/Sch%C3%B6nbrunn/thumbs/IMG_1902.JPEG" width="360" height="270"/>
+            <media:content type="image/jpeg" url="https://austria-trip.cc/Sch%C3%B6nbrunn/slides/IMG_1902.JPEG" width="1440" height="1080"/>
+            <jalbum:exif originalDate="Mon, 01 May 2023 10:43:55 +0300" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_1902.JPEG</guid>
+        </item>
+        <item>
+            <title>IMG_1903</title>
+            <link>https://austria-trip.cc/Sch%C3%B6nbrunn/slides/IMG_1903.JPEG</link>
+            <pubDate>Sat, 01 Jul 2023 01:37:21 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://austria-trip.cc/Sch%C3%B6nbrunn/thumbs/IMG_1903.JPEG" width="360" height="270"/>
+            <media:content type="image/jpeg" url="https://austria-trip.cc/Sch%C3%B6nbrunn/slides/IMG_1903.JPEG" width="1440" height="1080"/>
+            <jalbum:exif originalDate="Mon, 01 May 2023 10:44:09 +0300" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_1903.JPEG</guid>
+        </item>
+        <item>
+            <title>IMG_1904</title>
+            <link>https://austria-trip.cc/Sch%C3%B6nbrunn/slides/IMG_1904.JPEG</link>
+            <pubDate>Sat, 01 Jul 2023 01:37:21 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://austria-trip.cc/Sch%C3%B6nbrunn/thumbs/IMG_1904.JPEG" width="360" height="270"/>
+            <media:content type="image/jpeg" url="https://austria-trip.cc/Sch%C3%B6nbrunn/slides/IMG_1904.JPEG" width="1440" height="1080"/>
+            <jalbum:exif originalDate="Mon, 01 May 2023 10:44:54 +0300" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_1904.JPEG</guid>
+        </item>
+        <item>
+            <title>IMG_1905</title>
+            <link>https://austria-trip.cc/Sch%C3%B6nbrunn/slides/IMG_1905.JPEG</link>
+            <pubDate>Sat, 01 Jul 2023 01:37:21 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://austria-trip.cc/Sch%C3%B6nbrunn/thumbs/IMG_1905.JPEG" width="360" height="270"/>
+            <media:content type="image/jpeg" url="https://austria-trip.cc/Sch%C3%B6nbrunn/slides/IMG_1905.JPEG" width="1440" height="1080"/>
+            <jalbum:exif originalDate="Mon, 01 May 2023 10:45:08 +0300" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_1905.JPEG</guid>
+        </item>
+        <item>
+            <title>IMG_1906</title>
+            <link>https://austria-trip.cc/Sch%C3%B6nbrunn/slides/IMG_1906.JPEG</link>
+            <pubDate>Sat, 01 Jul 2023 01:37:21 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://austria-trip.cc/Sch%C3%B6nbrunn/thumbs/IMG_1906.JPEG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://austria-trip.cc/Sch%C3%B6nbrunn/slides/IMG_1906.JPEG" width="810" height="1080"/>
+            <jalbum:exif originalDate="Mon, 01 May 2023 10:48:32 +0300" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_1906.JPEG</guid>
+        </item>
+        <item>
+            <title>IMG_1914</title>
+            <link>https://austria-trip.cc/Sch%C3%B6nbrunn/slides/IMG_1914.JPEG</link>
+            <pubDate>Sat, 01 Jul 2023 01:37:21 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://austria-trip.cc/Sch%C3%B6nbrunn/thumbs/IMG_1914.JPEG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://austria-trip.cc/Sch%C3%B6nbrunn/slides/IMG_1914.JPEG" width="810" height="1080"/>
+            <jalbum:exif originalDate="Mon, 01 May 2023 11:21:57 +0300" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_1914.JPEG</guid>
+        </item>
+        <item>
+            <title>IMG_1915</title>
+            <link>https://austria-trip.cc/Sch%C3%B6nbrunn/slides/IMG_1915.JPEG</link>
+            <pubDate>Sat, 01 Jul 2023 01:37:21 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://austria-trip.cc/Sch%C3%B6nbrunn/thumbs/IMG_1915.JPEG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://austria-trip.cc/Sch%C3%B6nbrunn/slides/IMG_1915.JPEG" width="810" height="1080"/>
+            <jalbum:exif originalDate="Mon, 01 May 2023 11:22:03 +0300" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_1915.JPEG</guid>
+        </item>
+        <item>
+            <title>IMG_1916</title>
+            <link>https://austria-trip.cc/Sch%C3%B6nbrunn/slides/IMG_1916.JPEG</link>
+            <pubDate>Sat, 01 Jul 2023 01:37:21 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://austria-trip.cc/Sch%C3%B6nbrunn/thumbs/IMG_1916.JPEG" width="360" height="270"/>
+            <media:content type="image/jpeg" url="https://austria-trip.cc/Sch%C3%B6nbrunn/slides/IMG_1916.JPEG" width="1440" height="1080"/>
+            <jalbum:exif originalDate="Mon, 01 May 2023 11:22:25 +0300" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_1916.JPEG</guid>
+        </item>
+        <item>
+            <title>IMG_1917</title>
+            <link>https://austria-trip.cc/Sch%C3%B6nbrunn/slides/IMG_1917.JPEG</link>
+            <pubDate>Sat, 01 Jul 2023 01:37:21 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://austria-trip.cc/Sch%C3%B6nbrunn/thumbs/IMG_1917.JPEG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://austria-trip.cc/Sch%C3%B6nbrunn/slides/IMG_1917.JPEG" width="810" height="1080"/>
+            <jalbum:exif originalDate="Mon, 01 May 2023 11:22:38 +0300" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_1917.JPEG</guid>
+        </item>
+        <item>
+            <title>IMG_1918</title>
+            <link>https://austria-trip.cc/Sch%C3%B6nbrunn/slides/IMG_1918.JPEG</link>
+            <pubDate>Sat, 01 Jul 2023 01:37:21 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://austria-trip.cc/Sch%C3%B6nbrunn/thumbs/IMG_1918.JPEG" width="360" height="270"/>
+            <media:content type="image/jpeg" url="https://austria-trip.cc/Sch%C3%B6nbrunn/slides/IMG_1918.JPEG" width="1440" height="1080"/>
+            <jalbum:exif originalDate="Mon, 01 May 2023 11:24:33 +0300" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_1918.JPEG</guid>
+        </item>
+        <item>
+            <title>IMG_1919</title>
+            <link>https://austria-trip.cc/Sch%C3%B6nbrunn/slides/IMG_1919.JPEG</link>
+            <pubDate>Sat, 01 Jul 2023 01:37:21 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://austria-trip.cc/Sch%C3%B6nbrunn/thumbs/IMG_1919.JPEG" width="360" height="270"/>
+            <media:content type="image/jpeg" url="https://austria-trip.cc/Sch%C3%B6nbrunn/slides/IMG_1919.JPEG" width="1440" height="1080"/>
+            <jalbum:exif originalDate="Mon, 01 May 2023 11:24:40 +0300" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_1919.JPEG</guid>
+        </item>
+        <item>
+            <title>IMG_1920</title>
+            <link>https://austria-trip.cc/Sch%C3%B6nbrunn/slides/IMG_1920.JPEG</link>
+            <pubDate>Sat, 01 Jul 2023 01:37:21 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://austria-trip.cc/Sch%C3%B6nbrunn/thumbs/IMG_1920.JPEG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://austria-trip.cc/Sch%C3%B6nbrunn/slides/IMG_1920.JPEG" width="810" height="1080"/>
+            <jalbum:exif originalDate="Mon, 01 May 2023 11:24:52 +0300" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_1920.JPEG</guid>
+        </item>
+        <item>
+            <title>IMG_1925</title>
+            <link>https://austria-trip.cc/Sch%C3%B6nbrunn/slides/IMG_1925.JPEG</link>
+            <pubDate>Sat, 01 Jul 2023 01:37:21 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://austria-trip.cc/Sch%C3%B6nbrunn/thumbs/IMG_1925.JPEG" width="360" height="270"/>
+            <media:content type="image/jpeg" url="https://austria-trip.cc/Sch%C3%B6nbrunn/slides/IMG_1925.JPEG" width="1440" height="1080"/>
+            <jalbum:exif originalDate="Mon, 01 May 2023 12:44:13 +0300" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_1925.JPEG</guid>
+        </item>
+        <item>
+            <title>IMG_1927</title>
+            <link>https://austria-trip.cc/Sch%C3%B6nbrunn/slides/IMG_1927.JPEG</link>
+            <pubDate>Sat, 01 Jul 2023 01:37:21 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://austria-trip.cc/Sch%C3%B6nbrunn/thumbs/IMG_1927.JPEG" width="360" height="270"/>
+            <media:content type="image/jpeg" url="https://austria-trip.cc/Sch%C3%B6nbrunn/slides/IMG_1927.JPEG" width="1440" height="1080"/>
+            <jalbum:exif originalDate="Mon, 01 May 2023 13:20:33 +0300" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_1927.JPEG</guid>
+        </item>
+        <item>
+            <title>SET08655</title>
+            <link>https://austria-trip.cc/Sch%C3%B6nbrunn/slides/SET08655.JPG</link>
+            <pubDate>Sat, 01 Jul 2023 01:37:21 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://austria-trip.cc/Sch%C3%B6nbrunn/thumbs/SET08655.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://austria-trip.cc/Sch%C3%B6nbrunn/slides/SET08655.JPG" width="810" height="1080"/>
+            <jalbum:exif originalDate="Mon, 01 May 2023 13:05:24 +0300" cameraMake="SONY" cameraModel="DSC-HX99"/>
+            <guid isPermaLink="false">slides/SET08655.JPG</guid>
+        </item>
+        <item>
+            <title>SET08663</title>
+            <link>https://austria-trip.cc/Sch%C3%B6nbrunn/slides/SET08663.JPG</link>
+            <pubDate>Sat, 01 Jul 2023 01:37:21 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://austria-trip.cc/Sch%C3%B6nbrunn/thumbs/SET08663.JPG" width="360" height="270"/>
+            <media:content type="image/jpeg" url="https://austria-trip.cc/Sch%C3%B6nbrunn/slides/SET08663.JPG" width="1440" height="1080"/>
+            <jalbum:exif originalDate="Mon, 01 May 2023 13:10:25 +0300" cameraMake="SONY" cameraModel="DSC-HX99"/>
+            <guid isPermaLink="false">slides/SET08663.JPG</guid>
+        </item>
+        <item>
+            <title>SET08664</title>
+            <link>https://austria-trip.cc/Sch%C3%B6nbrunn/slides/SET08664.JPG</link>
+            <pubDate>Sat, 01 Jul 2023 01:37:21 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://austria-trip.cc/Sch%C3%B6nbrunn/thumbs/SET08664.JPG" width="360" height="270"/>
+            <media:content type="image/jpeg" url="https://austria-trip.cc/Sch%C3%B6nbrunn/slides/SET08664.JPG" width="1440" height="1080"/>
+            <jalbum:exif originalDate="Mon, 01 May 2023 13:10:26 +0300" cameraMake="SONY" cameraModel="DSC-HX99"/>
+            <guid isPermaLink="false">slides/SET08664.JPG</guid>
+        </item>
+        <item>
+            <title>SET08665</title>
+            <link>https://austria-trip.cc/Sch%C3%B6nbrunn/slides/SET08665.JPG</link>
+            <pubDate>Sat, 01 Jul 2023 01:37:21 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://austria-trip.cc/Sch%C3%B6nbrunn/thumbs/SET08665.JPG" width="360" height="270"/>
+            <media:content type="image/jpeg" url="https://austria-trip.cc/Sch%C3%B6nbrunn/slides/SET08665.JPG" width="1440" height="1080"/>
+            <jalbum:exif originalDate="Mon, 01 May 2023 13:10:29 +0300" cameraMake="SONY" cameraModel="DSC-HX99"/>
+            <guid isPermaLink="false">slides/SET08665.JPG</guid>
+        </item>
+        <item>
+            <title>SET08666</title>
+            <link>https://austria-trip.cc/Sch%C3%B6nbrunn/slides/SET08666.JPG</link>
+            <pubDate>Sat, 01 Jul 2023 01:37:21 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://austria-trip.cc/Sch%C3%B6nbrunn/thumbs/SET08666.JPG" width="360" height="270"/>
+            <media:content type="image/jpeg" url="https://austria-trip.cc/Sch%C3%B6nbrunn/slides/SET08666.JPG" width="1440" height="1080"/>
+            <jalbum:exif originalDate="Mon, 01 May 2023 13:20:14 +0300" cameraMake="SONY" cameraModel="DSC-HX99"/>
+            <guid isPermaLink="false">slides/SET08666.JPG</guid>
+        </item>
+    </channel>
+</rss>

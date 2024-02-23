@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Joseph footbridge in Lobau</title>
+   	<link>../..</link>
+        <generator>jAlbum 31.1</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://austria-trip.cc/Nationalpark%20Donau-Auen/Joseph%20footbridge%20in%20Lobau/</jalbum:absolutePath>
+        <item>
+            <title>I0MG_2125</title>
+            <link>https://austria-trip.cc/Nationalpark%20Donau-Auen/Joseph%20footbridge%20in%20Lobau/slides/I0MG_2125.JPEG</link>
+            <pubDate>Sat, 01 Jul 2023 01:37:21 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://austria-trip.cc/Nationalpark%20Donau-Auen/Joseph%20footbridge%20in%20Lobau/thumbs/I0MG_2125.JPEG" width="360" height="270"/>
+            <media:content type="image/jpeg" url="https://austria-trip.cc/Nationalpark%20Donau-Auen/Joseph%20footbridge%20in%20Lobau/slides/I0MG_2125.JPEG" width="1440" height="1080"/>
+            <jalbum:exif originalDate="Wed, 03 May 2023 13:06:52 +0300" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/I0MG_2125.JPEG</guid>
+        </item>
+        <item>
+            <title>IMG_2124</title>
+            <link>https://austria-trip.cc/Nationalpark%20Donau-Auen/Joseph%20footbridge%20in%20Lobau/slides/IMG_2124.JPEG</link>
+            <pubDate>Sat, 01 Jul 2023 01:37:21 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://austria-trip.cc/Nationalpark%20Donau-Auen/Joseph%20footbridge%20in%20Lobau/thumbs/IMG_2124.JPEG" width="360" height="270"/>
+            <media:content type="image/jpeg" url="https://austria-trip.cc/Nationalpark%20Donau-Auen/Joseph%20footbridge%20in%20Lobau/slides/IMG_2124.JPEG" width="1440" height="1080"/>
+            <jalbum:exif originalDate="Wed, 03 May 2023 13:06:44 +0300" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_2124.JPEG</guid>
+        </item>
+    </channel>
+</rss>

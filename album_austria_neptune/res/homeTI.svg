@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" width="32" height="32">
+	<defs>
+		<mask id="homeWindow">
+			<rect width="1000" height="1000" fill="#ffffff" />
+			<circle cx="500" cy="500" r="50" />
+		</mask>
+	</defs>
+	<g stroke="#ffffff" fill="#ffffff">
+	<path fill="none" stroke-width="90" d="M90 540, 500 130, 910 540" />
+	<polygon points="640 160, 790 160, 790 420, 640 270" />
+	<polygon points="210 930, 210 570, 500 280, 790 570, 790 930, 575 930, 577 675, 425 675, 425 930" mask="url(#homeWindow)" />
+	</g>
+</svg>

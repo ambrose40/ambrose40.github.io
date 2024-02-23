@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Karlsplatz</title>
+   	<link>../..</link>
+        <generator>jAlbum 31.1</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://austria-trip.cc/Inner%20City/Karlsplatz/</jalbum:absolutePath>
+        <item>
+            <title>IMG_1632</title>
+            <link>https://austria-trip.cc/Inner%20City/Karlsplatz/slides/IMG_1632.JPEG</link>
+            <pubDate>Sat, 01 Jul 2023 01:37:21 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://austria-trip.cc/Inner%20City/Karlsplatz/thumbs/IMG_1632.JPEG" width="360" height="270"/>
+            <media:content type="image/jpeg" url="https://austria-trip.cc/Inner%20City/Karlsplatz/slides/IMG_1632.JPEG" width="1440" height="1080"/>
+            <jalbum:exif originalDate="Sun, 30 Apr 2023 10:39:10 +0300" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_1632.JPEG</guid>
+        </item>
+        <item>
+            <title>IMG_1633</title>
+            <link>https://austria-trip.cc/Inner%20City/Karlsplatz/slides/IMG_1633.JPEG</link>
+            <pubDate>Sat, 01 Jul 2023 01:37:21 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://austria-trip.cc/Inner%20City/Karlsplatz/thumbs/IMG_1633.JPEG" width="360" height="270"/>
+            <media:content type="image/jpeg" url="https://austria-trip.cc/Inner%20City/Karlsplatz/slides/IMG_1633.JPEG" width="1440" height="1080"/>
+            <jalbum:exif originalDate="Sun, 30 Apr 2023 10:39:20 +0300" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_1633.JPEG</guid>
+        </item>
+        <item>
+            <title>IMG_1634</title>
+            <link>https://austria-trip.cc/Inner%20City/Karlsplatz/slides/IMG_1634.JPEG</link>
+            <pubDate>Sat, 01 Jul 2023 01:37:21 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://austria-trip.cc/Inner%20City/Karlsplatz/thumbs/IMG_1634.JPEG" width="360" height="270"/>
+            <media:content type="image/jpeg" url="https://austria-trip.cc/Inner%20City/Karlsplatz/slides/IMG_1634.JPEG" width="1440" height="1080"/>
+            <jalbum:exif originalDate="Sun, 30 Apr 2023 10:39:23 +0300" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_1634.JPEG</guid>
+        </item>
+    </channel>
+</rss>

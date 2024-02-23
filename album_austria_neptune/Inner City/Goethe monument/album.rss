@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Goethe monument</title>
+   	<link>../..</link>
+        <generator>jAlbum 31.1</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://austria-trip.cc/Inner%20City/Goethe%20monument/</jalbum:absolutePath>
+        <item>
+            <title>IMG_1631</title>
+            <link>https://austria-trip.cc/Inner%20City/Goethe%20monument/slides/IMG_1631.JPEG</link>
+            <pubDate>Sat, 01 Jul 2023 01:37:21 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://austria-trip.cc/Inner%20City/Goethe%20monument/thumbs/IMG_1631.JPEG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://austria-trip.cc/Inner%20City/Goethe%20monument/slides/IMG_1631.JPEG" width="810" height="1080"/>
+            <jalbum:exif originalDate="Sun, 30 Apr 2023 10:23:01 +0300" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_1631.JPEG</guid>
+        </item>
+    </channel>
+</rss>

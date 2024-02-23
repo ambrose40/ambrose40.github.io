@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Inner City</title>
+   	<link>..</link>
+        <generator>jAlbum 31.1</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://austria-trip.cc/Inner%20City/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="https://austria-trip.cc/Inner%20City/Austrian%20Parliament%20Building/album.rss" title="Austrian Parliament Building" thumbnail="https://austria-trip.cc/Inner%20City/thumbs/Austrian%20Parliament%20Building.jpg" thumbnailWidth="450" thumbnailHeight="337" />
+    	<jalbum:link rel="sub" href="https://austria-trip.cc/Inner%20City/Goethe%20monument/album.rss" title="Goethe monument" thumbnail="https://austria-trip.cc/Inner%20City/thumbs/Goethe%20monument.jpg" thumbnailWidth="337" thumbnailHeight="450" />
+    	<jalbum:link rel="sub" href="https://austria-trip.cc/Inner%20City/Karlsplatz/album.rss" title="Karlsplatz" thumbnail="https://austria-trip.cc/Inner%20City/thumbs/Karlsplatz.jpg" thumbnailWidth="450" thumbnailHeight="337" />
+    	<jalbum:link rel="sub" href="https://austria-trip.cc/Inner%20City/Maria-Theresien-Platz/album.rss" title="Maria-Theresien-Platz" thumbnail="https://austria-trip.cc/Inner%20City/thumbs/Maria-Theresien-Platz.jpg" thumbnailWidth="450" thumbnailHeight="337" />
+    	<jalbum:link rel="sub" href="https://austria-trip.cc/Inner%20City/Monument%20in%20honor%20of%20the%20soldiers%20of%20the%20Soviet%20Army/album.rss" title="Monument in honor of the soldiers of the Soviet Army" thumbnail="https://austria-trip.cc/Inner%20City/thumbs/Monument%20in%20honor%20of%20the%20soldiers%20of%20the%20Soviet%20Army.jpg" thumbnailWidth="450" thumbnailHeight="337" />
+    	<jalbum:link rel="sub" href="https://austria-trip.cc/Inner%20City/Mozart%20Monument/album.rss" title="Mozart Monument" thumbnail="https://austria-trip.cc/Inner%20City/thumbs/Mozart%20Monument.jpg" thumbnailWidth="337" thumbnailHeight="450" />
+    	<jalbum:link rel="sub" href="https://austria-trip.cc/Inner%20City/Palais%20Trautson/album.rss" title="Palais Trautson" thumbnail="https://austria-trip.cc/Inner%20City/thumbs/Palais%20Trautson.jpg" thumbnailWidth="450" thumbnailHeight="337" />
+    	<jalbum:link rel="sub" href="https://austria-trip.cc/Inner%20City/Rathauspark/album.rss" title="Rathauspark" thumbnail="https://austria-trip.cc/Inner%20City/thumbs/Rathauspark.jpg" thumbnailWidth="450" thumbnailHeight="337" />
+    	<jalbum:link rel="sub" href="https://austria-trip.cc/Inner%20City/St.%20Stephen%27s%20Cathedral/album.rss" title="St. Stephen&apos;s Cathedral" thumbnail="https://austria-trip.cc/Inner%20City/thumbs/St.%20Stephen%27s%20Cathedral.jpg" thumbnailWidth="337" thumbnailHeight="450" />
+    	<jalbum:link rel="sub" href="https://austria-trip.cc/Inner%20City/The%20Hofburg/album.rss" title="The Hofburg" thumbnail="https://austria-trip.cc/Inner%20City/thumbs/The%20Hofburg.jpg" thumbnailWidth="450" thumbnailHeight="337" />
+    	<jalbum:link rel="sub" href="https://austria-trip.cc/Inner%20City/Vienna%20City%20Hall/album.rss" title="Vienna City Hall" thumbnail="https://austria-trip.cc/Inner%20City/thumbs/Vienna%20City%20Hall.jpg" thumbnailWidth="337" thumbnailHeight="450" />
+    	<jalbum:link rel="sub" href="https://austria-trip.cc/Inner%20City/Volksgarten/album.rss" title="Volksgarten" thumbnail="https://austria-trip.cc/Inner%20City/thumbs/Volksgarten.jpg" thumbnailWidth="450" thumbnailHeight="337" />
+    	<jalbum:link rel="sub" href="https://austria-trip.cc/Inner%20City/Wiener%20Minoritenkirche/album.rss" title="Wiener Minoritenkirche" thumbnail="https://austria-trip.cc/Inner%20City/thumbs/Wiener%20Minoritenkirche.jpg" thumbnailWidth="450" thumbnailHeight="337" />
+        <item>
+            <title>IMG_1638</title>
+            <link>https://austria-trip.cc/Inner%20City/slides/IMG_1638.JPEG</link>
+            <pubDate>Sat, 01 Jul 2023 01:37:21 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://austria-trip.cc/Inner%20City/thumbs/IMG_1638.JPEG" width="360" height="270"/>
+            <media:content type="image/jpeg" url="https://austria-trip.cc/Inner%20City/slides/IMG_1638.JPEG" width="1440" height="1080"/>
+            <jalbum:exif originalDate="Sun, 30 Apr 2023 10:58:43 +0300" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_1638.JPEG</guid>
+        </item>
+        <item>
+            <title>IMG_1639</title>
+            <link>https://austria-trip.cc/Inner%20City/slides/IMG_1639.JPEG</link>
+            <pubDate>Sat, 01 Jul 2023 01:37:21 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://austria-trip.cc/Inner%20City/thumbs/IMG_1639.JPEG" width="360" height="270"/>
+            <media:content type="image/jpeg" url="https://austria-trip.cc/Inner%20City/slides/IMG_1639.JPEG" width="1440" height="1080"/>
+            <jalbum:exif originalDate="Sun, 30 Apr 2023 10:58:52 +0300" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_1639.JPEG</guid>
+        </item>
+        <item>
+            <title>IMG_1676</title>
+            <link>https://austria-trip.cc/Inner%20City/slides/IMG_1676.JPEG</link>
+            <pubDate>Sat, 01 Jul 2023 01:37:21 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://austria-trip.cc/Inner%20City/thumbs/IMG_1676.JPEG" width="360" height="270"/>
+            <media:content type="image/jpeg" url="https://austria-trip.cc/Inner%20City/slides/IMG_1676.JPEG" width="1440" height="1080"/>
+            <jalbum:exif originalDate="Sun, 30 Apr 2023 14:33:05 +0300" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_1676.JPEG</guid>
+        </item>
+        <item>
+            <title>IMG_1686</title>
+            <link>https://austria-trip.cc/Inner%20City/slides/IMG_1686.JPEG</link>
+            <pubDate>Sat, 01 Jul 2023 01:37:21 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://austria-trip.cc/Inner%20City/thumbs/IMG_1686.JPEG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://austria-trip.cc/Inner%20City/slides/IMG_1686.JPEG" width="810" height="1080"/>
+            <jalbum:exif originalDate="Sun, 30 Apr 2023 15:02:18 +0300" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_1686.JPEG</guid>
+        </item>
+        <item>
+            <title>IMG_1687</title>
+            <link>https://austria-trip.cc/Inner%20City/slides/IMG_1687.JPEG</link>
+            <pubDate>Sat, 01 Jul 2023 01:37:21 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://austria-trip.cc/Inner%20City/thumbs/IMG_1687.JPEG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://austria-trip.cc/Inner%20City/slides/IMG_1687.JPEG" width="810" height="1080"/>
+            <jalbum:exif originalDate="Sun, 30 Apr 2023 15:02:24 +0300" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_1687.JPEG</guid>
+        </item>
+    </channel>
+</rss>

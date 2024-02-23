@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Museum of Natural History</title>
+   	<link>..</link>
+        <generator>jAlbum 31.1</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://austria-trip.cc/Museum%20of%20Natural%20History/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="https://austria-trip.cc/Museum%20of%20Natural%20History/Venus%20of%20Galgenberg/album.rss" title="Venus of Galgenberg" thumbnail="https://austria-trip.cc/Museum%20of%20Natural%20History/thumbs/Venus%20of%20Galgenberg.jpg" thumbnailWidth="337" thumbnailHeight="450" />
+    	<jalbum:link rel="sub" href="https://austria-trip.cc/Museum%20of%20Natural%20History/Venus%20of%20Willendorf/album.rss" title="Venus of Willendorf" thumbnail="https://austria-trip.cc/Museum%20of%20Natural%20History/thumbs/Venus%20of%20Willendorf.jpg" thumbnailWidth="337" thumbnailHeight="450" />
+        <item>
+            <title>IMG_2578</title>
+            <link>https://austria-trip.cc/Museum%20of%20Natural%20History/slides/IMG_2578.JPEG</link>
+            <pubDate>Sat, 01 Jul 2023 01:37:21 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://austria-trip.cc/Museum%20of%20Natural%20History/thumbs/IMG_2578.JPEG" width="360" height="270"/>
+            <media:content type="image/jpeg" url="https://austria-trip.cc/Museum%20of%20Natural%20History/slides/IMG_2578.JPEG" width="1440" height="1080"/>
+            <jalbum:exif originalDate="Fri, 05 May 2023 13:00:26 +0300" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_2578.JPEG</guid>
+        </item>
+        <item>
+            <title>IMG_2587</title>
+            <link>https://austria-trip.cc/Museum%20of%20Natural%20History/slides/IMG_2587.JPEG</link>
+            <pubDate>Sat, 01 Jul 2023 01:37:21 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://austria-trip.cc/Museum%20of%20Natural%20History/thumbs/IMG_2587.JPEG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://austria-trip.cc/Museum%20of%20Natural%20History/slides/IMG_2587.JPEG" width="810" height="1080"/>
+            <jalbum:exif originalDate="Fri, 05 May 2023 13:04:12 +0300" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_2587.JPEG</guid>
+        </item>
+        <item>
+            <title>IMG_2588</title>
+            <link>https://austria-trip.cc/Museum%20of%20Natural%20History/slides/IMG_2588.JPEG</link>
+            <pubDate>Sat, 01 Jul 2023 01:37:21 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://austria-trip.cc/Museum%20of%20Natural%20History/thumbs/IMG_2588.JPEG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://austria-trip.cc/Museum%20of%20Natural%20History/slides/IMG_2588.JPEG" width="810" height="1080"/>
+            <jalbum:exif originalDate="Fri, 05 May 2023 13:04:13 +0300" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_2588.JPEG</guid>
+        </item>
+        <item>
+            <title>IMG_2589</title>
+            <link>https://austria-trip.cc/Museum%20of%20Natural%20History/slides/IMG_2589.JPEG</link>
+            <pubDate>Sat, 01 Jul 2023 01:37:21 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://austria-trip.cc/Museum%20of%20Natural%20History/thumbs/IMG_2589.JPEG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://austria-trip.cc/Museum%20of%20Natural%20History/slides/IMG_2589.JPEG" width="810" height="1080"/>
+            <jalbum:exif originalDate="Fri, 05 May 2023 13:04:20 +0300" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_2589.JPEG</guid>
+        </item>
+    </channel>
+</rss>

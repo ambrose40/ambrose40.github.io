@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Dechantlacke</title>
+   	<link>../..</link>
+        <generator>jAlbum 31.1</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://austria-trip.cc/Nationalpark%20Donau-Auen/Dechantlacke/</jalbum:absolutePath>
+        <item>
+            <title>0IMG_2117</title>
+            <link>https://austria-trip.cc/Nationalpark%20Donau-Auen/Dechantlacke/slides/0IMG_2117.JPEG</link>
+            <pubDate>Sat, 01 Jul 2023 01:37:21 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://austria-trip.cc/Nationalpark%20Donau-Auen/Dechantlacke/thumbs/0IMG_2117.JPEG" width="360" height="270"/>
+            <media:content type="image/jpeg" url="https://austria-trip.cc/Nationalpark%20Donau-Auen/Dechantlacke/slides/0IMG_2117.JPEG" width="1440" height="1080"/>
+            <jalbum:exif originalDate="Wed, 03 May 2023 12:01:37 +0300" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/0IMG_2117.JPEG</guid>
+        </item>
+        <item>
+            <title>IMG_2116</title>
+            <link>https://austria-trip.cc/Nationalpark%20Donau-Auen/Dechantlacke/slides/IMG_2116.JPEG</link>
+            <pubDate>Sat, 01 Jul 2023 01:37:21 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://austria-trip.cc/Nationalpark%20Donau-Auen/Dechantlacke/thumbs/IMG_2116.JPEG" width="360" height="270"/>
+            <media:content type="image/jpeg" url="https://austria-trip.cc/Nationalpark%20Donau-Auen/Dechantlacke/slides/IMG_2116.JPEG" width="1440" height="1080"/>
+            <jalbum:exif originalDate="Wed, 03 May 2023 12:01:33 +0300" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_2116.JPEG</guid>
+        </item>
+        <item>
+            <title>IMG_2118</title>
+            <link>https://austria-trip.cc/Nationalpark%20Donau-Auen/Dechantlacke/slides/IMG_2118.JPEG</link>
+            <pubDate>Sat, 01 Jul 2023 01:37:21 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://austria-trip.cc/Nationalpark%20Donau-Auen/Dechantlacke/thumbs/IMG_2118.JPEG" width="360" height="270"/>
+            <media:content type="image/jpeg" url="https://austria-trip.cc/Nationalpark%20Donau-Auen/Dechantlacke/slides/IMG_2118.JPEG" width="1440" height="1080"/>
+            <jalbum:exif originalDate="Wed, 03 May 2023 12:01:55 +0300" cameraMake="Apple" cameraModel="iPhone 12 Pro Max"/>
+            <guid isPermaLink="false">slides/IMG_2118.JPEG</guid>
+        </item>
+    </channel>
+</rss>

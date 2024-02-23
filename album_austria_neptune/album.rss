@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Austria 2023: Boris Melikian Expeditions Collection.</title>
+   	<link>.</link>
+        <generator>jAlbum 31.1</generator>
+   		<description>Vienna, Austria. Spring 2023.
+
+Botanical, Vienna, Danube, Museums, Austria, City, Fungi, Flora, River, Architecture.</description>
+        <jalbum:absolutePath>https://austria-trip.cc/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="https://austria-trip.cc/Belvedere/album.rss" title="Belvedere" thumbnail="https://austria-trip.cc/thumbs/Belvedere.jpg" thumbnailWidth="450" thumbnailHeight="337" />
+    	<jalbum:link rel="sub" href="https://austria-trip.cc/Botanical%20Garden/album.rss" title="Botanical Garden" thumbnail="https://austria-trip.cc/thumbs/Botanical%20Garden.jpg" thumbnailWidth="337" thumbnailHeight="450" />
+    	<jalbum:link rel="sub" href="https://austria-trip.cc/Danube/album.rss" title="Danube" thumbnail="https://austria-trip.cc/thumbs/Danube.jpg" thumbnailWidth="450" thumbnailHeight="350" />
+    	<jalbum:link rel="sub" href="https://austria-trip.cc/Flora/album.rss" title="Flora" thumbnail="https://austria-trip.cc/thumbs/Flora.jpg" thumbnailWidth="337" thumbnailHeight="450" />
+    	<jalbum:link rel="sub" href="https://austria-trip.cc/Fungi/album.rss" title="Fungi" thumbnail="https://austria-trip.cc/thumbs/Fungi.jpg" thumbnailWidth="450" thumbnailHeight="337" />
+    	<jalbum:link rel="sub" href="https://austria-trip.cc/Inner%20City/album.rss" title="Inner City" thumbnail="https://austria-trip.cc/thumbs/Inner%20City.jpg" thumbnailWidth="450" thumbnailHeight="337" />
+    	<jalbum:link rel="sub" href="https://austria-trip.cc/Museum%20of%20Natural%20History/album.rss" title="Museum of Natural History" thumbnail="https://austria-trip.cc/thumbs/Museum%20of%20Natural%20History.jpg" thumbnailWidth="450" thumbnailHeight="337" />
+    	<jalbum:link rel="sub" href="https://austria-trip.cc/Nationalpark%20Donau-Auen/album.rss" title="Nationalpark Donau-Auen" thumbnail="https://austria-trip.cc/thumbs/Nationalpark%20Donau-Auen.jpg" thumbnailWidth="450" thumbnailHeight="337" />
+    	<jalbum:link rel="sub" href="https://austria-trip.cc/University%20of%20Vienna%20Botanical%20Garden/album.rss" title="University of Vienna Botanical Garden" thumbnail="https://austria-trip.cc/thumbs/University%20of%20Vienna%20Botanical%20Garden.jpg" thumbnailWidth="337" thumbnailHeight="450" />
+    	<jalbum:link rel="sub" href="https://austria-trip.cc/Sch%C3%B6nbrunn/album.rss" title="Schönbrunn" thumbnail="https://austria-trip.cc/thumbs/Sch%C3%B6nbrunn.jpg" thumbnailWidth="450" thumbnailHeight="337" />
+    </channel>
+</rss>
