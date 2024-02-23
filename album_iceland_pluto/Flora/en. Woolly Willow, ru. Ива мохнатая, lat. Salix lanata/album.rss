@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>en. Woolly Willow, ru. Ива мохнатая, lat. Salix lanata</title>
+   	<link>../..</link>
+        <generator>jAlbum 25.1</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://www.iceland-trip.cc/Flora/en.%20Woolly%20Willow%2C%20ru.%20%D0%98%D0%B2%D0%B0%20%D0%BC%D0%BE%D1%85%D0%BD%D0%B0%D1%82%D0%B0%D1%8F%2C%20lat.%20Salix%20lanata/</jalbum:absolutePath>
+        <item>
+            <title>0DSC01250</title>
+            <link>https://www.iceland-trip.cc/Flora/en.%20Woolly%20Willow%2C%20ru.%20%D0%98%D0%B2%D0%B0%20%D0%BC%D0%BE%D1%85%D0%BD%D0%B0%D1%82%D0%B0%D1%8F%2C%20lat.%20Salix%20lanata/slides/0DSC01250.JPG</link>
+            <pubDate>Sat, 11 Jul 2020 23:24:35 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://www.iceland-trip.cc/Flora/en.%20Woolly%20Willow%2C%20ru.%20%D0%98%D0%B2%D0%B0%20%D0%BC%D0%BE%D1%85%D0%BD%D0%B0%D1%82%D0%B0%D1%8F%2C%20lat.%20Salix%20lanata/thumbs/0DSC01250.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://www.iceland-trip.cc/Flora/en.%20Woolly%20Willow%2C%20ru.%20%D0%98%D0%B2%D0%B0%20%D0%BC%D0%BE%D1%85%D0%BD%D0%B0%D1%82%D0%B0%D1%8F%2C%20lat.%20Salix%20lanata/slides/0DSC01250.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Tue, 23 Jul 2019 12:26:09 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/0DSC01250.JPG</guid>
+        </item>
+        <item>
+            <title>DSC01248</title>
+            <link>https://www.iceland-trip.cc/Flora/en.%20Woolly%20Willow%2C%20ru.%20%D0%98%D0%B2%D0%B0%20%D0%BC%D0%BE%D1%85%D0%BD%D0%B0%D1%82%D0%B0%D1%8F%2C%20lat.%20Salix%20lanata/slides/DSC01248.JPG</link>
+            <pubDate>Sat, 11 Jul 2020 23:24:35 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://www.iceland-trip.cc/Flora/en.%20Woolly%20Willow%2C%20ru.%20%D0%98%D0%B2%D0%B0%20%D0%BC%D0%BE%D1%85%D0%BD%D0%B0%D1%82%D0%B0%D1%8F%2C%20lat.%20Salix%20lanata/thumbs/DSC01248.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://www.iceland-trip.cc/Flora/en.%20Woolly%20Willow%2C%20ru.%20%D0%98%D0%B2%D0%B0%20%D0%BC%D0%BE%D1%85%D0%BD%D0%B0%D1%82%D0%B0%D1%8F%2C%20lat.%20Salix%20lanata/slides/DSC01248.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Tue, 23 Jul 2019 12:26:02 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC01248.JPG</guid>
+        </item>
+        <item>
+            <title>DSC01249</title>
+            <link>https://www.iceland-trip.cc/Flora/en.%20Woolly%20Willow%2C%20ru.%20%D0%98%D0%B2%D0%B0%20%D0%BC%D0%BE%D1%85%D0%BD%D0%B0%D1%82%D0%B0%D1%8F%2C%20lat.%20Salix%20lanata/slides/DSC01249.JPG</link>
+            <pubDate>Sat, 11 Jul 2020 23:24:35 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://www.iceland-trip.cc/Flora/en.%20Woolly%20Willow%2C%20ru.%20%D0%98%D0%B2%D0%B0%20%D0%BC%D0%BE%D1%85%D0%BD%D0%B0%D1%82%D0%B0%D1%8F%2C%20lat.%20Salix%20lanata/thumbs/DSC01249.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://www.iceland-trip.cc/Flora/en.%20Woolly%20Willow%2C%20ru.%20%D0%98%D0%B2%D0%B0%20%D0%BC%D0%BE%D1%85%D0%BD%D0%B0%D1%82%D0%B0%D1%8F%2C%20lat.%20Salix%20lanata/slides/DSC01249.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Tue, 23 Jul 2019 12:26:05 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC01249.JPG</guid>
+        </item>
+    </channel>
+</rss>
