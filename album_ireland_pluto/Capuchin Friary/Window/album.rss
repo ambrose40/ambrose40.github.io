@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Window</title>
+   	<link>../..</link>
+        <generator>jAlbum 25.1</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://ireland-trip.cc/Capuchin%20Friary/Window/</jalbum:absolutePath>
+        <item>
+            <title>DSC06849</title>
+            <link>https://ireland-trip.cc/Capuchin%20Friary/Window/slides/DSC06849.JPG</link>
+            <pubDate>Sat, 26 Jun 2021 22:24:31 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://ireland-trip.cc/Capuchin%20Friary/Window/thumbs/DSC06849.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://ireland-trip.cc/Capuchin%20Friary/Window/slides/DSC06849.JPG" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Mon, 21 Sep 2015 18:02:53 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC06849.JPG</guid>
+        </item>
+        <item>
+            <title>DSC06850</title>
+            <link>https://ireland-trip.cc/Capuchin%20Friary/Window/slides/DSC06850.JPG</link>
+            <pubDate>Sat, 26 Jun 2021 22:24:31 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://ireland-trip.cc/Capuchin%20Friary/Window/thumbs/DSC06850.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://ireland-trip.cc/Capuchin%20Friary/Window/slides/DSC06850.JPG" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Mon, 21 Sep 2015 18:03:00 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC06850.JPG</guid>
+        </item>
+        <item>
+            <title>DSC06851</title>
+            <link>https://ireland-trip.cc/Capuchin%20Friary/Window/slides/DSC06851.JPG</link>
+            <pubDate>Sat, 26 Jun 2021 22:24:31 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://ireland-trip.cc/Capuchin%20Friary/Window/thumbs/DSC06851.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://ireland-trip.cc/Capuchin%20Friary/Window/slides/DSC06851.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Mon, 21 Sep 2015 18:03:14 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC06851.JPG</guid>
+        </item>
+        <item>
+            <title>DSC06852</title>
+            <link>https://ireland-trip.cc/Capuchin%20Friary/Window/slides/DSC06852.JPG</link>
+            <pubDate>Sat, 26 Jun 2021 22:24:31 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://ireland-trip.cc/Capuchin%20Friary/Window/thumbs/DSC06852.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://ireland-trip.cc/Capuchin%20Friary/Window/slides/DSC06852.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Mon, 21 Sep 2015 18:03:14 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC06852.JPG</guid>
+        </item>
+    </channel>
+</rss>

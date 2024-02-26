@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Glencullen National Park</title>
+   	<link>..</link>
+        <generator>jAlbum 25.1</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://ireland-trip.cc/Glencullen%20National%20Park/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="https://ireland-trip.cc/Glencullen%20National%20Park/Hills/album.rss" title="Hills" thumbnail="https://ireland-trip.cc/Glencullen%20National%20Park/Hills/thumbs/DSC06617.JPG" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="https://ireland-trip.cc/Glencullen%20National%20Park/Forest/album.rss" title="Forest" thumbnail="https://ireland-trip.cc/Glencullen%20National%20Park/Forest/thumbs/DSC06525.JPG" thumbnailWidth="270" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="https://ireland-trip.cc/Glencullen%20National%20Park/Views/album.rss" title="Views" thumbnail="https://ireland-trip.cc/Glencullen%20National%20Park/Views/thumbs/DSC06529.JPG" thumbnailWidth="480" thumbnailHeight="360" />
+        <item>
+            <title>DSC06632</title>
+            <link>https://ireland-trip.cc/Glencullen%20National%20Park/slides/DSC06632.JPG</link>
+            <pubDate>Sat, 26 Jun 2021 22:24:31 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://ireland-trip.cc/Glencullen%20National%20Park/thumbs/DSC06632.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://ireland-trip.cc/Glencullen%20National%20Park/slides/DSC06632.JPG" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Sun, 20 Sep 2015 16:03:27 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC06632.JPG</guid>
+        </item>
+        <item>
+            <title>DSC06638</title>
+            <link>https://ireland-trip.cc/Glencullen%20National%20Park/slides/DSC06638.JPG</link>
+            <pubDate>Sat, 26 Jun 2021 22:24:31 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://ireland-trip.cc/Glencullen%20National%20Park/thumbs/DSC06638.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://ireland-trip.cc/Glencullen%20National%20Park/slides/DSC06638.JPG" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Sun, 20 Sep 2015 16:04:57 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC06638.JPG</guid>
+        </item>
+        <item>
+            <title>DSC06675</title>
+            <link>https://ireland-trip.cc/Glencullen%20National%20Park/slides/DSC06675.JPG</link>
+            <pubDate>Sat, 26 Jun 2021 22:24:31 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://ireland-trip.cc/Glencullen%20National%20Park/thumbs/DSC06675.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://ireland-trip.cc/Glencullen%20National%20Park/slides/DSC06675.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Sun, 20 Sep 2015 16:37:12 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC06675.JPG</guid>
+        </item>
+        <item>
+            <title>DSC06676</title>
+            <link>https://ireland-trip.cc/Glencullen%20National%20Park/slides/DSC06676.JPG</link>
+            <pubDate>Sat, 26 Jun 2021 22:24:31 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://ireland-trip.cc/Glencullen%20National%20Park/thumbs/DSC06676.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://ireland-trip.cc/Glencullen%20National%20Park/slides/DSC06676.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Sun, 20 Sep 2015 16:37:20 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC06676.JPG</guid>
+        </item>
+        <item>
+            <title>DSC06677</title>
+            <link>https://ireland-trip.cc/Glencullen%20National%20Park/slides/DSC06677.JPG</link>
+            <pubDate>Sat, 26 Jun 2021 22:24:31 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://ireland-trip.cc/Glencullen%20National%20Park/thumbs/DSC06677.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://ireland-trip.cc/Glencullen%20National%20Park/slides/DSC06677.JPG" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Sun, 20 Sep 2015 16:39:32 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC06677.JPG</guid>
+        </item>
+        <item>
+            <title>DSC06678</title>
+            <link>https://ireland-trip.cc/Glencullen%20National%20Park/slides/DSC06678.JPG</link>
+            <pubDate>Sat, 26 Jun 2021 22:24:31 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://ireland-trip.cc/Glencullen%20National%20Park/thumbs/DSC06678.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://ireland-trip.cc/Glencullen%20National%20Park/slides/DSC06678.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Sun, 20 Sep 2015 16:40:05 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC06678.JPG</guid>
+        </item>
+        <item>
+            <title>DSC06679</title>
+            <link>https://ireland-trip.cc/Glencullen%20National%20Park/slides/DSC06679.JPG</link>
+            <pubDate>Sat, 26 Jun 2021 22:24:31 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://ireland-trip.cc/Glencullen%20National%20Park/thumbs/DSC06679.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://ireland-trip.cc/Glencullen%20National%20Park/slides/DSC06679.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Sun, 20 Sep 2015 16:40:19 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC06679.JPG</guid>
+        </item>
+        <item>
+            <title>DSC06680</title>
+            <link>https://ireland-trip.cc/Glencullen%20National%20Park/slides/DSC06680.JPG</link>
+            <pubDate>Sat, 26 Jun 2021 22:24:31 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://ireland-trip.cc/Glencullen%20National%20Park/thumbs/DSC06680.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://ireland-trip.cc/Glencullen%20National%20Park/slides/DSC06680.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Sun, 20 Sep 2015 16:40:19 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC06680.JPG</guid>
+        </item>
+    </channel>
+</rss>

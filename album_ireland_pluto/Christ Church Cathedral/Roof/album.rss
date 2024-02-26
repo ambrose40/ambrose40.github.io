@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Roof</title>
+   	<link>../..</link>
+        <generator>jAlbum 25.1</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://ireland-trip.cc/Christ%20Church%20Cathedral/Roof/</jalbum:absolutePath>
+        <item>
+            <title>DSC07041</title>
+            <link>https://ireland-trip.cc/Christ%20Church%20Cathedral/Roof/slides/DSC07041.JPG</link>
+            <pubDate>Sat, 26 Jun 2021 22:24:31 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://ireland-trip.cc/Christ%20Church%20Cathedral/Roof/thumbs/DSC07041.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://ireland-trip.cc/Christ%20Church%20Cathedral/Roof/slides/DSC07041.JPG" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Mon, 21 Sep 2015 20:53:47 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC07041.JPG</guid>
+        </item>
+        <item>
+            <title>DSC07046</title>
+            <link>https://ireland-trip.cc/Christ%20Church%20Cathedral/Roof/slides/DSC07046.JPG</link>
+            <pubDate>Sat, 26 Jun 2021 22:24:31 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://ireland-trip.cc/Christ%20Church%20Cathedral/Roof/thumbs/DSC07046.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://ireland-trip.cc/Christ%20Church%20Cathedral/Roof/slides/DSC07046.JPG" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Mon, 21 Sep 2015 20:54:24 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC07046.JPG</guid>
+        </item>
+        <item>
+            <title>DSC07047</title>
+            <link>https://ireland-trip.cc/Christ%20Church%20Cathedral/Roof/slides/DSC07047.JPG</link>
+            <pubDate>Sat, 26 Jun 2021 22:24:31 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://ireland-trip.cc/Christ%20Church%20Cathedral/Roof/thumbs/DSC07047.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://ireland-trip.cc/Christ%20Church%20Cathedral/Roof/slides/DSC07047.JPG" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Mon, 21 Sep 2015 20:54:37 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC07047.JPG</guid>
+        </item>
+    </channel>
+</rss>

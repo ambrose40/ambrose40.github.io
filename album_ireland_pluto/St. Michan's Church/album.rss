@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>St. Michan&apos;s Church</title>
+   	<link>..</link>
+        <generator>jAlbum 25.1</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://ireland-trip.cc/St.%20Michan%27s%20Church/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="https://ireland-trip.cc/St.%20Michan%27s%20Church/Crypt/album.rss" title="Crypt" thumbnail="https://ireland-trip.cc/St.%20Michan%27s%20Church/Crypt/thumbs/DSC06891.JPG" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="https://ireland-trip.cc/St.%20Michan%27s%20Church/Stained%20glass/album.rss" title="Stained glass" thumbnail="https://ireland-trip.cc/St.%20Michan%27s%20Church/Stained%20glass/thumbs/DSC06865.JPG" thumbnailWidth="270" thumbnailHeight="360" />
+        <item>
+            <title>DSC06858</title>
+            <link>https://ireland-trip.cc/St.%20Michan%27s%20Church/slides/DSC06858.JPG</link>
+            <pubDate>Sat, 26 Jun 2021 22:24:31 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://ireland-trip.cc/St.%20Michan%27s%20Church/thumbs/DSC06858.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://ireland-trip.cc/St.%20Michan%27s%20Church/slides/DSC06858.JPG" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Mon, 21 Sep 2015 18:13:29 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC06858.JPG</guid>
+        </item>
+        <item>
+            <title>DSC06862</title>
+            <link>https://ireland-trip.cc/St.%20Michan%27s%20Church/slides/DSC06862.JPG</link>
+            <pubDate>Sat, 26 Jun 2021 22:24:31 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://ireland-trip.cc/St.%20Michan%27s%20Church/thumbs/DSC06862.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://ireland-trip.cc/St.%20Michan%27s%20Church/slides/DSC06862.JPG" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Mon, 21 Sep 2015 18:13:57 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC06862.JPG</guid>
+        </item>
+        <item>
+            <title>DSC06871</title>
+            <link>https://ireland-trip.cc/St.%20Michan%27s%20Church/slides/DSC06871.JPG</link>
+            <pubDate>Sat, 26 Jun 2021 22:24:31 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://ireland-trip.cc/St.%20Michan%27s%20Church/thumbs/DSC06871.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://ireland-trip.cc/St.%20Michan%27s%20Church/slides/DSC06871.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Mon, 21 Sep 2015 18:16:37 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC06871.JPG</guid>
+        </item>
+        <item>
+            <title>DSC06872</title>
+            <link>https://ireland-trip.cc/St.%20Michan%27s%20Church/slides/DSC06872.JPG</link>
+            <pubDate>Sat, 26 Jun 2021 22:24:31 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://ireland-trip.cc/St.%20Michan%27s%20Church/thumbs/DSC06872.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://ireland-trip.cc/St.%20Michan%27s%20Church/slides/DSC06872.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Mon, 21 Sep 2015 18:16:58 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC06872.JPG</guid>
+        </item>
+        <item>
+            <title>DSC06878</title>
+            <link>https://ireland-trip.cc/St.%20Michan%27s%20Church/slides/DSC06878.JPG</link>
+            <pubDate>Sat, 26 Jun 2021 22:24:31 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://ireland-trip.cc/St.%20Michan%27s%20Church/thumbs/DSC06878.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://ireland-trip.cc/St.%20Michan%27s%20Church/slides/DSC06878.JPG" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Mon, 21 Sep 2015 18:18:18 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC06878.JPG</guid>
+        </item>
+        <item>
+            <title>DSC06885</title>
+            <link>https://ireland-trip.cc/St.%20Michan%27s%20Church/slides/DSC06885.JPG</link>
+            <pubDate>Sat, 26 Jun 2021 22:24:31 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://ireland-trip.cc/St.%20Michan%27s%20Church/thumbs/DSC06885.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://ireland-trip.cc/St.%20Michan%27s%20Church/slides/DSC06885.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Mon, 21 Sep 2015 18:19:56 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC06885.JPG</guid>
+        </item>
+    </channel>
+</rss>

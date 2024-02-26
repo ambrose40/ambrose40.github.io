@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Ireland 2015: Boris Melikian Expeditions Collection.</title>
+   	<link>.</link>
+        <generator>jAlbum 25.1</generator>
+   		<description>Dublin, Ireland. Autumn 2015.
+
+Town, Capuchin Friary, Glasnevin Cemetery, Christ Church Cathedral, Fauna, Flora, Fungi,  John&apos;s Lane Church, St. Patrick&apos;s Cathedral, St. Michan&apos;s Church, St. Audoen&apos;s Church, Glencullen National Park</description>
+        <jalbum:absolutePath>https://ireland-trip.cc/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="https://ireland-trip.cc/Town/album.rss" title="Town" thumbnail="https://ireland-trip.cc/Town/thumbs/DSC07052.JPG" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="https://ireland-trip.cc/Capuchin%20Friary/album.rss" title="Capuchin Friary" thumbnail="https://ireland-trip.cc/Capuchin%20Friary/thumbs/DSC06837.JPG" thumbnailWidth="270" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="https://ireland-trip.cc/Glasnevin%20Cemetery/album.rss" title="Glasnevin Cemetery" thumbnail="https://ireland-trip.cc/Glasnevin%20Cemetery/thumbs/DSC06752.JPG" thumbnailWidth="270" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="https://ireland-trip.cc/Christ%20Church%20Cathedral/album.rss" title="Christ Church Cathedral" thumbnail="https://ireland-trip.cc/Christ%20Church%20Cathedral/thumbs/DSC06976.JPG" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="https://ireland-trip.cc/Fauna/album.rss" title="Fauna" thumbnail="https://ireland-trip.cc/Fauna/thumbs/DSC06644.JPG" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="https://ireland-trip.cc/Flora/album.rss" title="Flora" thumbnail="https://ireland-trip.cc/Flora/ru.%20%D0%A2%D0%B8%D1%81%20%D1%8F%D0%B3%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9%2C%20en.%20English%20Yew%2C%20lat.%20Taxus%20baccata/thumbs/00DSC06761.JPG" thumbnailWidth="270" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="https://ireland-trip.cc/Fungi/album.rss" title="Fungi" thumbnail="https://ireland-trip.cc/Fungi/ru.%20%D0%9C%D1%83%D1%85%D0%BE%D0%BC%D0%BE%D1%80%20%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D1%8B%D0%B9%2C%20en.%20Fly%20agaric%2C%20lat.%20Amanita%20muscaria/thumbs/0DSC06668.JPG" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="https://ireland-trip.cc/John%27s%20Lane%20Church/album.rss" title="John&apos;s Lane Church" thumbnail="https://ireland-trip.cc/John%27s%20Lane%20Church/thumbs/DSC06922.JPG" thumbnailWidth="270" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="https://ireland-trip.cc/St%20Patrick%27s%20Cathedral/album.rss" title="St Patrick&apos;s Cathedral" thumbnail="https://ireland-trip.cc/St%20Patrick%27s%20Cathedral/thumbs/DSC07057.JPG" thumbnailWidth="270" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="https://ireland-trip.cc/St.%20Michan%27s%20Church/album.rss" title="St. Michan&apos;s Church" thumbnail="https://ireland-trip.cc/St.%20Michan%27s%20Church/Crypt/thumbs/DSC06891.JPG" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="https://ireland-trip.cc/St.%20Audoen%27s%20Church/album.rss" title="St. Audoen&apos;s Church" thumbnail="https://ireland-trip.cc/St.%20Audoen%27s%20Church/thumbs/DSC06968.JPG" thumbnailWidth="270" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="https://ireland-trip.cc/Glencullen%20National%20Park/album.rss" title="Glencullen National Park" thumbnail="https://ireland-trip.cc/Glencullen%20National%20Park/Hills/thumbs/DSC06617.JPG" thumbnailWidth="480" thumbnailHeight="360" />
+        <item>
+            <title>DSC06692</title>
+            <link>https://ireland-trip.cc/slides/DSC06692.JPG</link>
+            <pubDate>Sat, 26 Jun 2021 22:24:31 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://ireland-trip.cc/thumbs/DSC06692.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://ireland-trip.cc/slides/DSC06692.JPG" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Mon, 21 Sep 2015 14:23:31 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC06692.JPG</guid>
+        </item>
+        <item>
+            <title>DSC06693</title>
+            <link>https://ireland-trip.cc/slides/DSC06693.JPG</link>
+            <pubDate>Sat, 26 Jun 2021 22:24:31 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://ireland-trip.cc/thumbs/DSC06693.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://ireland-trip.cc/slides/DSC06693.JPG" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Mon, 21 Sep 2015 14:23:46 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC06693.JPG</guid>
+        </item>
+        <item>
+            <title>DSC06694</title>
+            <link>https://ireland-trip.cc/slides/DSC06694.JPG</link>
+            <pubDate>Sat, 26 Jun 2021 22:24:31 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://ireland-trip.cc/thumbs/DSC06694.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://ireland-trip.cc/slides/DSC06694.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Mon, 21 Sep 2015 14:23:52 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC06694.JPG</guid>
+        </item>
+    </channel>
+</rss>

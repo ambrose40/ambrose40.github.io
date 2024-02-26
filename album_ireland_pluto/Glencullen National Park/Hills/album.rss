@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Hills</title>
+   	<link>../..</link>
+        <generator>jAlbum 25.1</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://ireland-trip.cc/Glencullen%20National%20Park/Hills/</jalbum:absolutePath>
+        <item>
+            <title>DSC06617</title>
+            <link>https://ireland-trip.cc/Glencullen%20National%20Park/Hills/slides/DSC06617.JPG</link>
+            <pubDate>Sat, 26 Jun 2021 22:24:31 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://ireland-trip.cc/Glencullen%20National%20Park/Hills/thumbs/DSC06617.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://ireland-trip.cc/Glencullen%20National%20Park/Hills/slides/DSC06617.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Sun, 20 Sep 2015 15:32:56 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC06617.JPG</guid>
+        </item>
+        <item>
+            <title>DSC06618</title>
+            <link>https://ireland-trip.cc/Glencullen%20National%20Park/Hills/slides/DSC06618.JPG</link>
+            <pubDate>Sat, 26 Jun 2021 22:24:31 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://ireland-trip.cc/Glencullen%20National%20Park/Hills/thumbs/DSC06618.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://ireland-trip.cc/Glencullen%20National%20Park/Hills/slides/DSC06618.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Sun, 20 Sep 2015 15:33:19 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC06618.JPG</guid>
+        </item>
+        <item>
+            <title>DSC06623</title>
+            <link>https://ireland-trip.cc/Glencullen%20National%20Park/Hills/slides/DSC06623.JPG</link>
+            <pubDate>Sat, 26 Jun 2021 22:24:31 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://ireland-trip.cc/Glencullen%20National%20Park/Hills/thumbs/DSC06623.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://ireland-trip.cc/Glencullen%20National%20Park/Hills/slides/DSC06623.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Sun, 20 Sep 2015 15:51:52 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC06623.JPG</guid>
+        </item>
+    </channel>
+</rss>

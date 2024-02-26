@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>en. Japanese blue oak, ru. Дуб сизый, lat. Quercus glauca</title>
+   	<link>../..</link>
+        <generator>jAlbum 25.1</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://sochi-trip.cc/Dendrarium/en.%20Japanese%20blue%20oak%2C%20ru.%20%D0%94%D1%83%D0%B1%20%D1%81%D0%B8%D0%B7%D1%8B%D0%B9%2C%20lat.%20Quercus%20glauca/</jalbum:absolutePath>
+        <item>
+            <title>DSC02255</title>
+            <link>https://sochi-trip.cc/Dendrarium/en.%20Japanese%20blue%20oak%2C%20ru.%20%D0%94%D1%83%D0%B1%20%D1%81%D0%B8%D0%B7%D1%8B%D0%B9%2C%20lat.%20Quercus%20glauca/slides/DSC02255.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 20:06:01 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://sochi-trip.cc/Dendrarium/en.%20Japanese%20blue%20oak%2C%20ru.%20%D0%94%D1%83%D0%B1%20%D1%81%D0%B8%D0%B7%D1%8B%D0%B9%2C%20lat.%20Quercus%20glauca/thumbs/DSC02255.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://sochi-trip.cc/Dendrarium/en.%20Japanese%20blue%20oak%2C%20ru.%20%D0%94%D1%83%D0%B1%20%D1%81%D0%B8%D0%B7%D1%8B%D0%B9%2C%20lat.%20Quercus%20glauca/slides/DSC02255.JPG" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Sat, 31 Mar 2018 11:59:32 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC02255.JPG</guid>
+        </item>
+        <item>
+            <title>DSC02256</title>
+            <link>https://sochi-trip.cc/Dendrarium/en.%20Japanese%20blue%20oak%2C%20ru.%20%D0%94%D1%83%D0%B1%20%D1%81%D0%B8%D0%B7%D1%8B%D0%B9%2C%20lat.%20Quercus%20glauca/slides/DSC02256.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 20:06:01 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://sochi-trip.cc/Dendrarium/en.%20Japanese%20blue%20oak%2C%20ru.%20%D0%94%D1%83%D0%B1%20%D1%81%D0%B8%D0%B7%D1%8B%D0%B9%2C%20lat.%20Quercus%20glauca/thumbs/DSC02256.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://sochi-trip.cc/Dendrarium/en.%20Japanese%20blue%20oak%2C%20ru.%20%D0%94%D1%83%D0%B1%20%D1%81%D0%B8%D0%B7%D1%8B%D0%B9%2C%20lat.%20Quercus%20glauca/slides/DSC02256.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Sat, 31 Mar 2018 11:59:40 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC02256.JPG</guid>
+        </item>
+    </channel>
+</rss>

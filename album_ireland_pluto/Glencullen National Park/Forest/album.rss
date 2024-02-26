@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Forest</title>
+   	<link>../..</link>
+        <generator>jAlbum 25.1</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://ireland-trip.cc/Glencullen%20National%20Park/Forest/</jalbum:absolutePath>
+        <item>
+            <title>DSC06515</title>
+            <link>https://ireland-trip.cc/Glencullen%20National%20Park/Forest/slides/DSC06515.JPG</link>
+            <pubDate>Sat, 26 Jun 2021 22:24:31 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://ireland-trip.cc/Glencullen%20National%20Park/Forest/thumbs/DSC06515.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://ireland-trip.cc/Glencullen%20National%20Park/Forest/slides/DSC06515.JPG" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Sun, 20 Sep 2015 14:15:19 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC06515.JPG</guid>
+        </item>
+        <item>
+            <title>DSC06518</title>
+            <link>https://ireland-trip.cc/Glencullen%20National%20Park/Forest/slides/DSC06518.JPG</link>
+            <pubDate>Sat, 26 Jun 2021 22:24:31 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://ireland-trip.cc/Glencullen%20National%20Park/Forest/thumbs/DSC06518.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://ireland-trip.cc/Glencullen%20National%20Park/Forest/slides/DSC06518.JPG" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Sun, 20 Sep 2015 14:21:46 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC06518.JPG</guid>
+        </item>
+        <item>
+            <title>DSC06519</title>
+            <link>https://ireland-trip.cc/Glencullen%20National%20Park/Forest/slides/DSC06519.JPG</link>
+            <pubDate>Sat, 26 Jun 2021 22:24:31 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://ireland-trip.cc/Glencullen%20National%20Park/Forest/thumbs/DSC06519.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://ireland-trip.cc/Glencullen%20National%20Park/Forest/slides/DSC06519.JPG" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Sun, 20 Sep 2015 14:21:56 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC06519.JPG</guid>
+        </item>
+        <item>
+            <title>DSC06523</title>
+            <link>https://ireland-trip.cc/Glencullen%20National%20Park/Forest/slides/DSC06523.JPG</link>
+            <pubDate>Sat, 26 Jun 2021 22:24:31 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://ireland-trip.cc/Glencullen%20National%20Park/Forest/thumbs/DSC06523.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://ireland-trip.cc/Glencullen%20National%20Park/Forest/slides/DSC06523.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Sun, 20 Sep 2015 14:29:00 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC06523.JPG</guid>
+        </item>
+        <item>
+            <title>DSC06525</title>
+            <link>https://ireland-trip.cc/Glencullen%20National%20Park/Forest/slides/DSC06525.JPG</link>
+            <pubDate>Sat, 26 Jun 2021 22:24:31 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://ireland-trip.cc/Glencullen%20National%20Park/Forest/thumbs/DSC06525.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://ireland-trip.cc/Glencullen%20National%20Park/Forest/slides/DSC06525.JPG" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Sun, 20 Sep 2015 14:29:16 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC06525.JPG</guid>
+        </item>
+        <item>
+            <title>DSC06683</title>
+            <link>https://ireland-trip.cc/Glencullen%20National%20Park/Forest/slides/DSC06683.JPG</link>
+            <pubDate>Sat, 26 Jun 2021 22:24:31 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://ireland-trip.cc/Glencullen%20National%20Park/Forest/thumbs/DSC06683.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://ireland-trip.cc/Glencullen%20National%20Park/Forest/slides/DSC06683.JPG" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Sun, 20 Sep 2015 16:42:41 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC06683.JPG</guid>
+        </item>
+    </channel>
+</rss>

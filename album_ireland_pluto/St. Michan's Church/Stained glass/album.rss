@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Stained glass</title>
+   	<link>../..</link>
+        <generator>jAlbum 25.1</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://ireland-trip.cc/St.%20Michan%27s%20Church/Stained%20glass/</jalbum:absolutePath>
+        <item>
+            <title>DSC06865</title>
+            <link>https://ireland-trip.cc/St.%20Michan%27s%20Church/Stained%20glass/slides/DSC06865.JPG</link>
+            <pubDate>Sat, 26 Jun 2021 22:24:31 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://ireland-trip.cc/St.%20Michan%27s%20Church/Stained%20glass/thumbs/DSC06865.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://ireland-trip.cc/St.%20Michan%27s%20Church/Stained%20glass/slides/DSC06865.JPG" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Mon, 21 Sep 2015 18:15:12 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC06865.JPG</guid>
+        </item>
+        <item>
+            <title>DSC06867</title>
+            <link>https://ireland-trip.cc/St.%20Michan%27s%20Church/Stained%20glass/slides/DSC06867.JPG</link>
+            <pubDate>Sat, 26 Jun 2021 22:24:31 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://ireland-trip.cc/St.%20Michan%27s%20Church/Stained%20glass/thumbs/DSC06867.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://ireland-trip.cc/St.%20Michan%27s%20Church/Stained%20glass/slides/DSC06867.JPG" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Mon, 21 Sep 2015 18:15:49 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC06867.JPG</guid>
+        </item>
+    </channel>
+</rss>

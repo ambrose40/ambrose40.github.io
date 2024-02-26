@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>John&apos;s Lane Church</title>
+   	<link>..</link>
+        <generator>jAlbum 25.1</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://ireland-trip.cc/John%27s%20Lane%20Church/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="https://ireland-trip.cc/John%27s%20Lane%20Church/Door/album.rss" title="Door" thumbnail="https://ireland-trip.cc/John%27s%20Lane%20Church/Door/thumbs/DSC06926.JPG" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="https://ireland-trip.cc/John%27s%20Lane%20Church/Inner/album.rss" title="Inner" thumbnail="https://ireland-trip.cc/John%27s%20Lane%20Church/Inner/thumbs/DSC06935.JPG" thumbnailWidth="270" thumbnailHeight="360" />
+        <item>
+            <title>DSC06922</title>
+            <link>https://ireland-trip.cc/John%27s%20Lane%20Church/slides/DSC06922.JPG</link>
+            <pubDate>Sat, 26 Jun 2021 22:24:31 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://ireland-trip.cc/John%27s%20Lane%20Church/thumbs/DSC06922.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://ireland-trip.cc/John%27s%20Lane%20Church/slides/DSC06922.JPG" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Mon, 21 Sep 2015 19:42:23 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC06922.JPG</guid>
+        </item>
+        <item>
+            <title>DSC06923</title>
+            <link>https://ireland-trip.cc/John%27s%20Lane%20Church/slides/DSC06923.JPG</link>
+            <pubDate>Sat, 26 Jun 2021 22:24:31 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://ireland-trip.cc/John%27s%20Lane%20Church/thumbs/DSC06923.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://ireland-trip.cc/John%27s%20Lane%20Church/slides/DSC06923.JPG" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Mon, 21 Sep 2015 19:42:23 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC06923.JPG</guid>
+        </item>
+        <item>
+            <title>DSC06924</title>
+            <link>https://ireland-trip.cc/John%27s%20Lane%20Church/slides/DSC06924.JPG</link>
+            <pubDate>Sat, 26 Jun 2021 22:24:31 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://ireland-trip.cc/John%27s%20Lane%20Church/thumbs/DSC06924.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://ireland-trip.cc/John%27s%20Lane%20Church/slides/DSC06924.JPG" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Mon, 21 Sep 2015 19:42:34 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC06924.JPG</guid>
+        </item>
+        <item>
+            <title>DSC06925</title>
+            <link>https://ireland-trip.cc/John%27s%20Lane%20Church/slides/DSC06925.JPG</link>
+            <pubDate>Sat, 26 Jun 2021 22:24:31 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://ireland-trip.cc/John%27s%20Lane%20Church/thumbs/DSC06925.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://ireland-trip.cc/John%27s%20Lane%20Church/slides/DSC06925.JPG" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Mon, 21 Sep 2015 19:42:34 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC06925.JPG</guid>
+        </item>
+    </channel>
+</rss>

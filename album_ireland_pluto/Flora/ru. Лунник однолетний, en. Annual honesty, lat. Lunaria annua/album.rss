@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>ru. Лунник однолетний, en. Annual honesty, lat. Lunaria annua</title>
+   	<link>../..</link>
+        <generator>jAlbum 25.1</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://ireland-trip.cc/Flora/ru.%20%D0%9B%D1%83%D0%BD%D0%BD%D0%B8%D0%BA%20%D0%BE%D0%B4%D0%BD%D0%BE%D0%BB%D0%B5%D1%82%D0%BD%D0%B8%D0%B9%2C%20en.%20Annual%20honesty%2C%20lat.%20Lunaria%20annua/</jalbum:absolutePath>
+        <item>
+            <title>DSC06648</title>
+            <link>https://ireland-trip.cc/Flora/ru.%20%D0%9B%D1%83%D0%BD%D0%BD%D0%B8%D0%BA%20%D0%BE%D0%B4%D0%BD%D0%BE%D0%BB%D0%B5%D1%82%D0%BD%D0%B8%D0%B9%2C%20en.%20Annual%20honesty%2C%20lat.%20Lunaria%20annua/slides/DSC06648.JPG</link>
+            <pubDate>Sat, 26 Jun 2021 22:24:31 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://ireland-trip.cc/Flora/ru.%20%D0%9B%D1%83%D0%BD%D0%BD%D0%B8%D0%BA%20%D0%BE%D0%B4%D0%BD%D0%BE%D0%BB%D0%B5%D1%82%D0%BD%D0%B8%D0%B9%2C%20en.%20Annual%20honesty%2C%20lat.%20Lunaria%20annua/thumbs/DSC06648.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://ireland-trip.cc/Flora/ru.%20%D0%9B%D1%83%D0%BD%D0%BD%D0%B8%D0%BA%20%D0%BE%D0%B4%D0%BD%D0%BE%D0%BB%D0%B5%D1%82%D0%BD%D0%B8%D0%B9%2C%20en.%20Annual%20honesty%2C%20lat.%20Lunaria%20annua/slides/DSC06648.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Sun, 20 Sep 2015 16:14:37 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC06648.JPG</guid>
+        </item>
+        <item>
+            <title>DSC06649</title>
+            <link>https://ireland-trip.cc/Flora/ru.%20%D0%9B%D1%83%D0%BD%D0%BD%D0%B8%D0%BA%20%D0%BE%D0%B4%D0%BD%D0%BE%D0%BB%D0%B5%D1%82%D0%BD%D0%B8%D0%B9%2C%20en.%20Annual%20honesty%2C%20lat.%20Lunaria%20annua/slides/DSC06649.JPG</link>
+            <pubDate>Sat, 26 Jun 2021 22:24:31 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://ireland-trip.cc/Flora/ru.%20%D0%9B%D1%83%D0%BD%D0%BD%D0%B8%D0%BA%20%D0%BE%D0%B4%D0%BD%D0%BE%D0%BB%D0%B5%D1%82%D0%BD%D0%B8%D0%B9%2C%20en.%20Annual%20honesty%2C%20lat.%20Lunaria%20annua/thumbs/DSC06649.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://ireland-trip.cc/Flora/ru.%20%D0%9B%D1%83%D0%BD%D0%BD%D0%B8%D0%BA%20%D0%BE%D0%B4%D0%BD%D0%BE%D0%BB%D0%B5%D1%82%D0%BD%D0%B8%D0%B9%2C%20en.%20Annual%20honesty%2C%20lat.%20Lunaria%20annua/slides/DSC06649.JPG" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Sun, 20 Sep 2015 16:14:47 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC06649.JPG</guid>
+        </item>
+    </channel>
+</rss>
